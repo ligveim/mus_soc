@@ -410,32 +410,32 @@ const artistsData = [
     },
     {
         name: "Death Hags",
-        followers: {},
-        links: {},
+        followers: {"spotify": 15600},
+        links: {"instagram": "https://www.instagram.com/death_hags/", "spotify": "https://open.spotify.com/artist/0PulgZlDMcE2B1AQD4kITo", "bandcamp": "https://deathhags.bandcamp.com/", "soundcloud": "https://soundcloud.com/death_hags"},
         source: "original"
     },
     {
         name: "Haruhisa Tanaka",
-        followers: {},
-        links: {},
+        followers: {"spotify": 126700},
+        links: {"spotify": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw", "bandcamp": "https://teinei.bandcamp.com/album/nayuta"},
         source: "original"
     },
     {
         name: "River Tiber",
-        followers: {},
-        links: {},
+        followers: {"instagram": 22000, "spotify": 978700},
+        links: {"instagram": "https://www.instagram.com/rivertiber/", "spotify": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0", "soundcloud": "https://soundcloud.com/rivertiber", "twitter": "https://twitter.com/rivertiber"},
         source: "original"
     },
     {
         name: "No Love In The House Of Gold",
-        followers: {},
-        links: {},
+        followers: {"spotify": 190000},
+        links: {"instagram": "https://www.instagram.com/noloveinthehouseofgold/", "spotify": "https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L"},
         source: "original"
     },
     {
         name: "Other Nothing",
-        followers: {},
-        links: {},
+        followers: {"spotify": 656100},
+        links: {"instagram": "https://www.instagram.com/othernoth/", "spotify": "https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd", "website": "https://www.othernothing.com/"},
         source: "original"
     },
     {
