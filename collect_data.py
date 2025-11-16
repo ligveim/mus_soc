@@ -621,6 +621,44 @@ collected_data = {
             "instagram": "https://www.instagram.com/chanel_beads/",
             "spotify": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
         }
+    },
+    "Martyna Basta": {
+        "followers": {"instagram": 5557, "spotify": 4500},
+        "links": {
+            "instagram": "https://www.instagram.com/martynkabasta/",
+            "spotify": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw",
+            "bandcamp": "https://martynabasta.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/martyna-basta",
+            "website": "https://www.martynabasta.com/"
+        }
+    },
+    "yes/and": {
+        "followers": {"instagram": 706, "spotify": 43000},
+        "links": {
+            "instagram": "https://www.instagram.com/yes____and/",
+            "spotify": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
+        }
+    },
+    "Geller": {
+        "followers": {"instagram": 25000, "spotify": 73000},
+        "links": {
+            "instagram": "https://www.instagram.com/gellermusic/",
+            "spotify": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEfWkXpbL",
+            "website": "https://www.gellermusic.com/"
+        }
+    },
+    "Arthur Mine": {
+        "followers": {"spotify": 1300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+    },
+    "Crim3s": {
+        "followers": {"instagram": 27000, "spotify": 363400},
+        "links": {
+            "instagram": "https://www.instagram.com/crim3s/",
+            "spotify": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
+        }
     }
 }
 

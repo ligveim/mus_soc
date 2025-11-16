@@ -368,8 +368,8 @@ const artistsData = [
     },
     {
         name: "Martyna Basta",
-        followers: {},
-        links: {},
+        followers: {"instagram": 5557, "spotify": 4500},
+        links: {"instagram": "https://www.instagram.com/martynkabasta/", "spotify": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw", "bandcamp": "https://martynabasta.bandcamp.com/", "soundcloud": "https://soundcloud.com/martyna-basta", "website": "https://www.martynabasta.com/"},
         source: "original"
     },
     {
@@ -380,14 +380,14 @@ const artistsData = [
     },
     {
         name: "yes/and",
-        followers: {},
-        links: {},
+        followers: {"instagram": 706, "spotify": 43000},
+        links: {"instagram": "https://www.instagram.com/yes____and/", "spotify": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"},
         source: "original"
     },
     {
         name: "Geller",
-        followers: {},
-        links: {},
+        followers: {"instagram": 25000, "spotify": 73000},
+        links: {"instagram": "https://www.instagram.com/gellermusic/", "spotify": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEfWkXpbL", "website": "https://www.gellermusic.com/"},
         source: "original"
     },
     {
@@ -398,14 +398,14 @@ const artistsData = [
     },
     {
         name: "Arthur Mine",
-        followers: {},
-        links: {},
+        followers: {"spotify": 1300},
+        links: {"spotify": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"},
         source: "original"
     },
     {
         name: "Crim3s",
-        followers: {},
-        links: {},
+        followers: {"instagram": 27000, "spotify": 363400},
+        links: {"instagram": "https://www.instagram.com/crim3s/", "spotify": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"},
         source: "original"
     },
     {
