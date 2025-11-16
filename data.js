@@ -476,8 +476,8 @@ const artistsData = [
     },
     {
         name: "Funki Porcini",
-        followers: {},
-        links: {},
+        followers: {"spotify": 156900},
+        links: {"spotify": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw", "bandcamp": "https://funkiporcini.bandcamp.com/"},
         source: "original"
     },
     {
@@ -488,8 +488,8 @@ const artistsData = [
     },
     {
         name: "Iwakura",
-        followers: {},
-        links: {},
+        followers: {"instagram": 67, "spotify": 227400},
+        links: {"instagram": "https://www.instagram.com/lain_iwakura_official/", "spotify": "https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv", "soundcloud": "https://soundcloud.com/iwakuraa"},
         source: "original"
     },
     {
@@ -500,20 +500,20 @@ const artistsData = [
     },
     {
         name: "Fools",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 350100},
+        links: {"instagram": "https://www.instagram.com/foolmusic/", "spotify": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"},
         source: "original"
     },
     {
         name: "d2s1",
-        followers: {},
-        links: {},
+        followers: {"instagram": 567},
+        links: {"instagram": "https://www.instagram.com/_d2s1_/", "spotify": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY", "soundcloud": "https://soundcloud.com/d2s1_music"},
         source: "original"
     },
     {
         name: "Leliel",
-        followers: {},
-        links: {},
+        followers: {"spotify": 117},
+        links: {"spotify": "https://open.spotify.com/artist/5byrsGoCAhVfZ2gTUbv89L"},
         source: "original"
     },
     {

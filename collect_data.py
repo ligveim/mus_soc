@@ -736,6 +736,42 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg",
             "bandcamp": "https://kirkbarley.bandcamp.com/"
         }
+    },
+    "Funki Porcini": {
+        "followers": {"spotify": 156900},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw",
+            "bandcamp": "https://funkiporcini.bandcamp.com/"
+        }
+    },
+    "Iwakura": {
+        "followers": {"instagram": 67, "spotify": 227400},
+        "links": {
+            "instagram": "https://www.instagram.com/lain_iwakura_official/",
+            "spotify": "https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv",
+            "soundcloud": "https://soundcloud.com/iwakuraa"
+        }
+    },
+    "Fools": {
+        "followers": {"instagram": 12000, "spotify": 350100},
+        "links": {
+            "instagram": "https://www.instagram.com/foolmusic/",
+            "spotify": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+    },
+    "d2s1": {
+        "followers": {"instagram": 567},
+        "links": {
+            "instagram": "https://www.instagram.com/_d2s1_/",
+            "spotify": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY",
+            "soundcloud": "https://soundcloud.com/d2s1_music"
+        }
+    },
+    "Leliel": {
+        "followers": {"spotify": 117},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5byrsGoCAhVfZ2gTUbv89L"
+        }
     }
 }
 
