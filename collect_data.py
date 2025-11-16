@@ -361,6 +361,49 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/0jfM46ZkOFpk5EkXWEhTC5"
         }
+    },
+    "Instupendo": {
+        "followers": {"instagram": 28000, "spotify": 2200000},
+        "links": {
+            "instagram": "https://www.instagram.com/instupendo/",
+            "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC",
+            "bandcamp": "https://instupendo.bandcamp.com/",
+            "twitter": "https://x.com/instupendo"
+        }
+    },
+    "Loukeman": {
+        "followers": {"instagram": 24000, "spotify": 325600},
+        "links": {
+            "instagram": "https://www.instagram.com/loukeman/",
+            "spotify": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL",
+            "soundcloud": "https://soundcloud.com/loukeman",
+            "website": "https://loukeman.com/"
+        }
+    },
+    "Father2006": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4",
+            "soundcloud": "https://soundcloud.com/father2006",
+            "bandcamp": "https://father2006.bandcamp.com/",
+            "twitter": "https://twitter.com/father2006_",
+            "website": "https://father.2006.kr/"
+        }
+    },
+    "ooxygen": {
+        "followers": {"spotify": 65200},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1TprUqL4zLntYtStJgUV6p"
+        }
+    },
+    "dreamcorp.": {
+        "followers": {},
+        "links": {
+            "instagram": "https://www.instagram.com/dreamcorphomevideo/",
+            "spotify": "https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau",
+            "soundcloud": "https://soundcloud.com/dreamcorphomevideo",
+            "bandcamp": "https://dreamcorphomevideo.bandcamp.com/"
+        }
     }
 }
 

@@ -98,8 +98,8 @@ const artistsData = [
     },
     {
         name: "Instupendo",
-        followers: {"spotify": 2200000},
-        links: {"spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC", "bandcamp": "https://instupendo.bandcamp.com/", "twitter": "https://x.com/instupendo"},
+        followers: {"instagram": 28000, "spotify": 2200000},
+        links: {"instagram": "https://www.instagram.com/instupendo/", "spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC", "bandcamp": "https://instupendo.bandcamp.com/", "twitter": "https://x.com/instupendo"},
         source: "original"
     },
     {
@@ -183,19 +183,19 @@ const artistsData = [
     {
         name: "Father2006",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/27yhOwnmWiOJf474zGblS4", "soundcloud": "https://soundcloud.com/father2006", "bandcamp": "https://father2006.bandcamp.com/", "twitter": "https://twitter.com/father2006_", "website": "https://father.2006.kr/"},
         source: "original"
     },
     {
         name: "ooxygen",
-        followers: {},
-        links: {},
+        followers: {"spotify": 65200},
+        links: {"spotify": "https://open.spotify.com/artist/1TprUqL4zLntYtStJgUV6p"},
         source: "original"
     },
     {
         name: "dreamcorp.",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/dreamcorphomevideo/", "spotify": "https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau", "soundcloud": "https://soundcloud.com/dreamcorphomevideo", "bandcamp": "https://dreamcorphomevideo.bandcamp.com/"},
         source: "original"
     },
     {
