@@ -47,15 +47,27 @@ function sortArtists(type) {
     } else if (type === 'followers-asc') {
         document.getElementById('sortFollowersAsc').classList.add('active');
         filteredArtists.sort((a, b) => {
-            const aMax = Math.max(...Object.values(a.followers).filter(f => f !== null && f !== undefined), 0);
-            const bMax = Math.max(...Object.values(b.followers).filter(f => f !== null && f !== undefined), 0);
+            const aMax = getMaxFollowers(a);
+            const bMax = getMaxFollowers(b);
+
+            // Артисты без данных идут в конец
+            if (aMax === 0 && bMax === 0) return 0;
+            if (aMax === 0) return 1;
+            if (bMax === 0) return -1;
+
             return aMax - bMax;
         });
     } else if (type === 'followers-desc') {
         document.getElementById('sortFollowersDesc').classList.add('active');
         filteredArtists.sort((a, b) => {
-            const aMax = Math.max(...Object.values(a.followers).filter(f => f !== null && f !== undefined), 0);
-            const bMax = Math.max(...Object.values(b.followers).filter(f => f !== null && f !== undefined), 0);
+            const aMax = getMaxFollowers(a);
+            const bMax = getMaxFollowers(b);
+
+            // Артисты без данных идут в конец
+            if (aMax === 0 && bMax === 0) return 0;
+            if (aMax === 0) return 1;
+            if (bMax === 0) return -1;
+
             return bMax - aMax;
         });
     }
@@ -94,10 +106,6 @@ function renderArtists() {
             <div class="artist-card">
                 <div class="artist-name">${artist.name}</div>
 
-                ${artist.tags && artist.tags.length > 0 ?
-                    artist.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')
-                    : ''}
-
                 <div class="artist-stats">
                     ${artist.followers.instagram ? `
                         <div class="stat-item">
@@ -117,6 +125,13 @@ function renderArtists() {
                         <div class="stat-item">
                             <span class="stat-label">Last.fm</span>
                             <span class="stat-value">${formatFollowers(artist.followers.lastfm)} слушателей</span>
+                        </div>
+                    ` : ''}
+
+                    ${artist.followers.tiktok ? `
+                        <div class="stat-item">
+                            <span class="stat-label">TikTok</span>
+                            <span class="stat-value">${formatFollowers(artist.followers.tiktok)}</span>
                         </div>
                     ` : ''}
 
