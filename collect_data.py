@@ -244,6 +244,43 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/1GUci0loUu7Ysy2YkLLick"
         }
+    },
+    "Hainbach": {
+        "followers": {"instagram": 114000, "spotify": 60300},
+        "links": {
+            "instagram": "https://www.instagram.com/hainbach101/",
+            "spotify": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+    },
+    "Nikolaienko": {
+        "followers": {},
+        "links": {
+            "soundcloud": "https://soundcloud.com/nikolaienko",
+            "website": "https://dmytronikolaienko.com/"
+        }
+    },
+    "Astrid Sonne": {
+        "followers": {"instagram": 28000, "spotify": 170800},
+        "links": {
+            "instagram": "https://www.instagram.com/astridsonne_/",
+            "spotify": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689",
+            "soundcloud": "https://m.soundcloud.com/a_sonne"
+        }
+    },
+    "Chanel Beads": {
+        "followers": {"instagram": 37000, "spotify": 384100},
+        "links": {
+            "instagram": "https://www.instagram.com/chanel_beads/",
+            "spotify": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+    },
+    "Susumu Yokota": {
+        "followers": {"instagram": 1965, "spotify": 318400},
+        "links": {
+            "instagram": "https://www.instagram.com/susumuyokotaofficial/",
+            "spotify": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ",
+            "soundcloud": "https://soundcloud.com/susumuyokotaofficial"
+        }
     }
 }
 
