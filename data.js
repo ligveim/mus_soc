@@ -308,8 +308,8 @@ const artistsData = [
     },
     {
         name: "7038634357",
-        followers: {},
-        links: {},
+        followers: {"instagram": 13000},
+        links: {"instagram": "https://www.instagram.com/neo_lapse/", "spotify": "https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO", "bandcamp": "https://7-0-3.bandcamp.com/", "soundcloud": "https://soundcloud.com/neo_petal"},
         source: "original"
     },
     {
@@ -518,8 +518,8 @@ const artistsData = [
     },
     {
         name: "The Koreatown Oddity",
-        followers: {},
-        links: {},
+        followers: {"instagram": 20000, "spotify": 87900},
+        links: {"instagram": "https://www.instagram.com/ktownodd/", "spotify": "https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ", "soundcloud": "https://soundcloud.com/the-koreatown-oddity", "twitter": "https://twitter.com/koreatownoddity"},
         source: "original"
     },
     {
@@ -536,38 +536,38 @@ const artistsData = [
     },
     {
         name: "$quib",
-        followers: {},
-        links: {},
+        followers: {"spotify": 2300},
+        links: {"spotify": "https://open.spotify.com/artist/2bvw5ZYK1LmNAikReUhJOc"},
         source: "original"
     },
     {
         name: "audry",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2383, "spotify": 532},
+        links: {"instagram": "https://www.instagram.com/audrymusicartist/", "spotify": "https://open.spotify.com/artist/5oivZbKE0eyzr1CELOQUZG"},
         source: "original"
     },
     {
         name: "Xori",
-        followers: {},
-        links: {},
+        followers: {"spotify": 318},
+        links: {"spotify": "https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv", "bandcamp": "https://xori.bandcamp.com/", "soundcloud": "https://soundcloud.com/x0ri"},
         source: "original"
     },
     {
         name: "Imagine Drowning",
-        followers: {},
-        links: {},
+        followers: {"spotify": 44900},
+        links: {"spotify": "https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9"},
         source: "original"
     },
     {
         name: "dreamcorp",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/dreamcorphomevideo/", "spotify": "https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau", "soundcloud": "https://soundcloud.com/dreamcorphomevideo", "bandcamp": "https://dreamcorphomevideo.bandcamp.com/"},
         source: "original"
     },
     {
         name: "Argo Nuff",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/argonuff/", "spotify": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"},
         source: "original"
     },
     {
