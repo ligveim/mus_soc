@@ -122,8 +122,8 @@ const artistsData = [
     },
     {
         name: "Ricky Eat Acid",
-        followers: {},
-        links: {},
+        followers: {"instagram": 18000, "spotify": 88500},
+        links: {"instagram": "https://www.instagram.com/rickyeatacidx/", "spotify": "https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S", "soundcloud": "https://soundcloud.com/rickyeatacid", "twitter": "https://x.com/rickyeatacid"},
         source: "original"
     },
     {
@@ -146,8 +146,8 @@ const artistsData = [
     },
     {
         name: "Casino Versus Japan",
-        followers: {},
-        links: {},
+        followers: {"spotify": 90800},
+        links: {"spotify": "https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6", "bandcamp": "https://attacknine.bandcamp.com/album/live-at-le-poisson-rouge"},
         source: "original"
     },
     {
@@ -164,8 +164,8 @@ const artistsData = [
     },
     {
         name: "Two Lone Swordsmen",
-        followers: {},
-        links: {},
+        followers: {"spotify": 46100},
+        links: {"spotify": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8", "soundcloud": "https://m.soundcloud.com/twoloneswordsmen"},
         source: "original"
     },
     {
@@ -176,8 +176,8 @@ const artistsData = [
     },
     {
         name: "Hype Williams",
-        followers: {},
-        links: {},
+        followers: {"spotify": 62500},
+        links: {"spotify": "https://open.spotify.com/artist/3SMaI6j8ObewCWPQFwfvui"},
         source: "original"
     },
     {
@@ -290,8 +290,8 @@ const artistsData = [
     },
     {
         name: "Bogdan Raczynski",
-        followers: {},
-        links: {},
+        followers: {"instagram": 16000, "spotify": 30300},
+        links: {"instagram": "https://www.instagram.com/bogdanraczynski/", "spotify": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA", "soundcloud": "https://m.soundcloud.com/bogdanraczynski", "website": "https://bogdanraczynski.com/"},
         source: "original"
     },
     {
