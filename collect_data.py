@@ -68,57 +68,80 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/0mfh3axTPkPhaKfnubdqN5",
             "bandcamp": "https://monker178.bandcamp.com/",
             "soundcloud": "https://soundcloud.com/monker178"
-        },
-        "tags": ["ambient", "trance", "sound collage"]
+        }
     },
     "Mayo": {
         "followers": {"spotify": 582900},
-        "links": {"spotify": "https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu"},
-        "tags": ["breakcore", "downtempo", "electronic"]
+        "links": {"spotify": "https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu"}
     },
     "CFCF": {
         "followers": {"spotify": 73900},
-        "links": {"spotify": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"},
-        "tags": ["electronic", "synthpop"]
+        "links": {"spotify": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"}
     },
     "koronba": {
         "followers": {"spotify": 90100},
-        "links": {"spotify": "https://open.spotify.com/artist/4HAJ2da9qjbfCHDdEnsVz"},
-        "tags": ["ambient", "IDM", "glitch"]
+        "links": {"spotify": "https://open.spotify.com/artist/4HAJ2da9qjbfCHDdEnsVz"}
     },
     "Grouper": {
         "followers": {"instagram": 70000, "spotify": 2000000},
         "links": {
             "instagram": "https://www.instagram.com/grouperepuorg/",
             "spotify": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        },
-        "tags": ["ambient", "drone", "experimental"]
+        }
     },
     "Machine Girl": {
         "followers": {"instagram": 244000},
         "links": {
             "instagram": "https://www.instagram.com/machin3gir1/",
             "linktree": "https://linktr.ee/machin3gir1"
-        },
-        "tags": ["breakcore", "footwork", "electronic"]
+        }
     },
     "Sewerslvt": {
         "followers": {"spotify": 458400},
-        "links": {"spotify": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"},
-        "tags": ["breakcore", "drum and bass", "atmospheric"]
+        "links": {"spotify": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"}
     },
     "Dean Blunt": {
         "followers": {"spotify": 2400000},
-        "links": {"spotify": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"},
-        "tags": ["experimental", "ambient", "electronic"]
+        "links": {"spotify": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"}
     },
     "Crystal Castles": {
         "followers": {"instagram": 462000, "spotify": 7900000},
         "links": {
             "instagram": "https://www.instagram.com/crystalcastles/",
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        "tags": ["electronic", "indie", "experimental"]
+        }
+    },
+    "Boards of Canada": {
+        "followers": {"spotify": 818400},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+            "facebook": "https://www.facebook.com/boardsofcanada/"
+        }
+    },
+    "Oneohtrix Point Never": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
+            "twitter": "https://twitter.com/0PN",
+            "linktree": "https://linktr.ee/oneohtrixpointnever"
+        }
+    },
+    "Grimes": {
+        "followers": {"instagram": 2000000, "tiktok": 860000, "spotify": 7700000},
+        "links": {
+            "instagram": "https://www.instagram.com/grimes/",
+            "tiktok": "https://www.tiktok.com/@grimes",
+            "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab",
+            "twitter": "https://x.com/grimezsz"
+        }
+    },
+    "Tim Hecker": {
+        "followers": {"instagram": 42000, "spotify": 123900},
+        "links": {
+            "instagram": "https://www.instagram.com/sunblindstudios/",
+            "spotify": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
+            "twitter": "https://twitter.com/tim_hecker"
+        }
     }
 }
 
@@ -131,13 +154,11 @@ def generate_js_data():
         data = collected_data.get(artist, {})
         followers = data.get("followers", {})
         links = data.get("links", {})
-        tags = data.get("tags", [])
 
         js_code += f"    {{\n"
         js_code += f"        name: \"{artist}\",\n"
         js_code += f"        followers: {json.dumps(followers)},\n"
         js_code += f"        links: {json.dumps(links)},\n"
-        js_code += f"        tags: {json.dumps(tags)},\n"
         js_code += f"        source: \"original\"\n"
         js_code += f"    }},\n"
 
@@ -146,13 +167,11 @@ def generate_js_data():
         data = collected_data.get(artist, {})
         followers = data.get("followers", {})
         links = data.get("links", {})
-        tags = data.get("tags", [])
 
         js_code += f"    {{\n"
         js_code += f"        name: \"{artist}\",\n"
         js_code += f"        followers: {json.dumps(followers)},\n"
         js_code += f"        links: {json.dumps(links)},\n"
-        js_code += f"        tags: {json.dumps(tags)},\n"
         js_code += f"        source: \"similar\"\n"
         js_code += f"    }},\n"
 
