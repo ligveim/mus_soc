@@ -14,8 +14,8 @@ const artistsData = [
     },
     {
         name: "Blithe Field",
-        followers: {},
-        links: {},
+        followers: {"spotify": 35400},
+        links: {"spotify": "https://open.spotify.com/artist/4effiSDHnV1sU1FaLSWIRS", "bandcamp": "https://blithefield.bandcamp.com/"},
         source: "original"
     },
     {
@@ -45,7 +45,7 @@ const artistsData = [
     {
         name: "Infinity Frequencies",
         followers: {"spotify": 342400},
-        links: {"spotify": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp", "bandcamp": "https://computer-gaze.bandcamp.com"},
+        links: {"spotify": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp", "bandcamp": "https://computer-gaze.bandcamp.com/"},
         source: "original"
     },
     {
@@ -57,7 +57,7 @@ const artistsData = [
     {
         name: "Rory in early 20s",
         followers: {"spotify": 504300},
-        links: {"instagram": "https://www.instagram.com/rorynearly20s/", "spotify": "https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N", "soundcloud": "https://soundcloud.com/rorynearly20s", "bandcamp": "https://rorynearly20s.bandcamp.com/", "twitter": "https://x.com/rorynearly20s"},
+        links: {"instagram": "https://www.instagram.com/rorynearly20s/", "spotify": "https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N", "bandcamp": "https://rorynearly20s.bandcamp.com/"},
         source: "original"
     },
     {
@@ -69,13 +69,13 @@ const artistsData = [
     {
         name: "Forma Norte",
         followers: {"spotify": 76200},
-        links: {"spotify": "https://open.spotify.com/artist/1GUci0loUu7Ysy2YkLLick"},
+        links: {"spotify": "https://open.spotify.com/artist/1GUci0loUu7Ysy2YkLLick", "soundcloud": "https://soundcloud.com/formanorte"},
         source: "original"
     },
     {
         name: "Leon Vynehall",
         followers: {"instagram": 62000, "spotify": 406400},
-        links: {"instagram": "https://www.instagram.com/vynehall/", "spotify": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU", "bandcamp": "https://leonvynehall.bandcamp.com/"},
+        links: {"instagram": "https://www.instagram.com/vynehall/", "spotify": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU", "soundcloud": "https://soundcloud.com/vynehall", "bandcamp": "https://leonvynehall.bandcamp.com/"},
         source: "original"
     },
     {
