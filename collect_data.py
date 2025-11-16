@@ -184,6 +184,37 @@ collected_data = {
             "twitter": "https://x.com/markuspopp_oval",
             "bandcamp": "https://oval.bandcamp.com/"
         }
+    },
+    "Rory in early 20s": {
+        "followers": {"spotify": 504300},
+        "links": {
+            "instagram": "https://www.instagram.com/rorynearly20s/",
+            "spotify": "https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N",
+            "soundcloud": "https://soundcloud.com/rorynearly20s",
+            "bandcamp": "https://rorynearly20s.bandcamp.com/",
+            "twitter": "https://x.com/rorynearly20s"
+        }
+    },
+    "Trashiii": {
+        "followers": {"spotify": 201800},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6txVXvr3AUo8DwygF77cah"
+        }
+    },
+    "Ssaliva": {
+        "followers": {"instagram": 20000, "spotify": 26800},
+        "links": {
+            "instagram": "https://www.instagram.com/_ssaliva/",
+            "spotify": "https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB",
+            "bandcamp": "https://leavingrecords.bandcamp.com/album/ssaliva-pantani"
+        }
+    },
+    "Downhill2k01": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs",
+            "soundcloud": "https://soundcloud.com/tags/downhill2k01"
+        }
     }
 }
 
