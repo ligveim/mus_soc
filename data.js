@@ -440,26 +440,26 @@ const artistsData = [
     },
     {
         name: "TheExorcist",
-        followers: {},
-        links: {},
+        followers: {"spotify": 1},
+        links: {"spotify": "https://open.spotify.com/artist/2ywNboibMviT63ZfqNu7wz", "bandcamp": "https://theexorcistgbg.bandcamp.com/"},
         source: "original"
     },
     {
         name: "Actress",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/__a__c__t__r__e__s__s__/", "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz", "bandcamp": "https://actress.bandcamp.com/"},
         source: "original"
     },
     {
         name: "Locust",
-        followers: {},
-        links: {},
+        followers: {"spotify": 3000},
+        links: {"spotify": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N", "bandcamp": "https://markvanhoen.bandcamp.com/"},
         source: "original"
     },
     {
         name: "Slow Attack Ensemble",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2078},
+        links: {"instagram": "https://www.instagram.com/slowattackensemble/", "spotify": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As", "soundcloud": "https://soundcloud.com/slowattackensemble"},
         source: "original"
     },
     {
@@ -470,8 +470,8 @@ const artistsData = [
     },
     {
         name: "Kirk Barley",
-        followers: {},
-        links: {},
+        followers: {"spotify": 7800},
+        links: {"spotify": "https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg", "bandcamp": "https://kirkbarley.bandcamp.com/"},
         source: "original"
     },
     {
