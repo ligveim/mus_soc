@@ -62,8 +62,8 @@ const artistsData = [
     },
     {
         name: "Vegyn",
-        followers: {},
-        links: {},
+        followers: {"instagram": 107000, "spotify": 1100000},
+        links: {"instagram": "https://www.instagram.com/vegynvegyn/", "spotify": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o", "soundcloud": "https://soundcloud.com/vegyn", "twitter": "https://twitter.com/vegynvegyn"},
         source: "original"
     },
     {
@@ -74,8 +74,8 @@ const artistsData = [
     },
     {
         name: "Leon Vynehall",
-        followers: {},
-        links: {},
+        followers: {"instagram": 62000, "spotify": 406400},
+        links: {"instagram": "https://www.instagram.com/vynehall/", "spotify": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU", "bandcamp": "https://leonvynehall.bandcamp.com/"},
         source: "original"
     },
     {
@@ -98,8 +98,8 @@ const artistsData = [
     },
     {
         name: "Instupendo",
-        followers: {},
-        links: {},
+        followers: {"spotify": 2200000},
+        links: {"spotify": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC", "bandcamp": "https://instupendo.bandcamp.com/", "twitter": "https://x.com/instupendo"},
         source: "original"
     },
     {
@@ -494,8 +494,8 @@ const artistsData = [
     },
     {
         name: "Khotin",
-        followers: {},
-        links: {},
+        followers: {"spotify": 46100},
+        links: {"spotify": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk", "soundcloud": "https://soundcloud.com/khotin", "website": "https://khotin.ca/"},
         source: "original"
     },
     {
@@ -524,8 +524,8 @@ const artistsData = [
     },
     {
         name: "Oval",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2634, "spotify": 11998, "twitter": 1465},
+        links: {"instagram": "https://www.instagram.com/markuspopp_oval/", "spotify": "https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af", "twitter": "https://x.com/markuspopp_oval", "bandcamp": "https://oval.bandcamp.com/"},
         source: "original"
     },
     {
