@@ -572,32 +572,32 @@ const artistsData = [
     },
     {
         name: "Elysia Crampton",
-        followers: {},
-        links: {},
+        followers: {"spotify": 0},
+        links: {"spotify": "https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN", "soundcloud": "https://soundcloud.com/eande"},
         source: "similar"
     },
     {
         name: "Tujiko Noriko",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2343, "spotify": 26300},
+        links: {"instagram": "https://www.instagram.com/koyama_tujiko/", "spotify": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l", "website": "https://tujikonoriko.com/"},
         source: "similar"
     },
     {
         name: "Triad God",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/25U9EIeQHwCfEbygMdm08y", "soundcloud": "https://soundcloud.com/triadgod", "bandcamp": "https://prestorecords.bandcamp.com/album/triad"},
         source: "similar"
     },
     {
         name: "Jonatan Leandoer96",
-        followers: {},
-        links: {},
+        followers: {"spotify": 226700},
+        links: {"spotify": "https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE"},
         source: "similar"
     },
     {
         name: "Teen Daze",
-        followers: {},
-        links: {},
+        followers: {"spotify": 102700},
+        links: {"spotify": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l", "bandcamp": "https://teendaze.bandcamp.com/"},
         source: "similar"
     },
     {
