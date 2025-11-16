@@ -554,6 +554,33 @@ collected_data = {
             "bandcamp": "https://shutayasukochi.bandcamp.com/",
             "soundcloud": "https://soundcloud.com/shuta-yasukochi"
         }
+    },
+    "Damage Cloud": {
+        "followers": {},
+        "links": {
+            "bandcamp": "https://damagecloud.bandcamp.com/"
+        }
+    },
+    "SPXRXT": {
+        "followers": {"instagram": 190, "spotify": 51000},
+        "links": {
+            "instagram": "https://www.instagram.com/spxrxt.nxnx/",
+            "spotify": "https://open.spotify.com/artist/5pTlqH0gyhoF6ctINfS8cS",
+            "bandcamp": "https://spxrxt.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/spxrxt"
+        }
+    },
+    "draaq me": {
+        "followers": {"spotify": 60300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3c78RGXMpRW2lwP8NQeUQ2"
+        }
+    },
+    "Detente": {
+        "followers": {"spotify": 16400},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/27EWfb0OYnPNxWql0eNb4X"
+        }
     }
 }
 
