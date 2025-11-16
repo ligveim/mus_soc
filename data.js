@@ -219,7 +219,7 @@ const artistsData = [
     {
         name: "Harpsichord Canvas",
         followers: {},
-        links: {},
+        links: {"bandcamp": "https://harpsichordcanvas.bandcamp.com/", "soundcloud": "https://soundcloud.com/harpsichordcanvas"},
         source: "original"
     },
     {
@@ -230,26 +230,26 @@ const artistsData = [
     },
     {
         name: "SSIEGE",
-        followers: {},
-        links: {},
+        followers: {"spotify": 55900},
+        links: {"spotify": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"},
         source: "original"
     },
     {
         name: "pathetic240px",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 970600},
+        links: {"instagram": "https://www.instagram.com/pathetic240px/", "spotify": "https://open.spotify.com/artist/6s6HhNePAkax0mfTK1O57K", "bandcamp": "https://pathetic240px.bandcamp.com/", "soundcloud": "https://soundcloud.com/pathetic240px"},
         source: "original"
     },
     {
         name: "untitled (halo)",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 62700},
+        links: {"instagram": "https://www.instagram.com/untitledhalo/", "spotify": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"},
         source: "original"
     },
     {
         name: "Retail Drugs",
-        followers: {},
-        links: {},
+        followers: {"spotify": 17600},
+        links: {"instagram": "https://www.instagram.com/retaildrugsnyc/", "spotify": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v", "bandcamp": "https://retaildrugs.bandcamp.com/"},
         source: "original"
     },
     {
