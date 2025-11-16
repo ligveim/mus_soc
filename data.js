@@ -80,20 +80,20 @@ const artistsData = [
     },
     {
         name: "optic core",
-        followers: {},
-        links: {},
+        followers: {"instagram": 3870, "spotify": 90000},
+        links: {"instagram": "https://www.instagram.com/optic__core/", "spotify": "https://open.spotify.com/artist/2iyLphVMYwRzaMn9hwHqDf", "soundcloud": "https://soundcloud.com/optic_core", "bandcamp": "https://opticcore.bandcamp.com/"},
         source: "original"
     },
     {
         name: "shamana",
-        followers: {},
-        links: {},
+        followers: {"instagram": 6310, "spotify": 281900},
+        links: {"instagram": "https://www.instagram.com/shamanabeats/", "spotify": "https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av", "soundcloud": "https://soundcloud.com/SHAMANABEATS"},
         source: "original"
     },
     {
         name: "Maebi",
-        followers: {},
-        links: {},
+        followers: {"instagram": 1191, "spotify": 582900},
+        links: {"instagram": "https://www.instagram.com/maebimusic/", "spotify": "https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu", "soundcloud": "https://soundcloud.com/maeb-i", "bandcamp": "https://maebi.bandcamp.com/"},
         source: "original"
     },
     {
@@ -134,8 +134,8 @@ const artistsData = [
     },
     {
         name: "Deathbrain",
-        followers: {},
-        links: {},
+        followers: {"instagram": 4625, "spotify": 86700},
+        links: {"instagram": "https://www.instagram.com/deathbrains/", "spotify": "https://open.spotify.com/artist/0xR08Dp7M1PF7XbISrKwbW", "soundcloud": "https://soundcloud.com/deathbrainofficial", "twitter": "https://x.com/deathbrainz", "bandcamp": "https://deathbrain.bandcamp.com/"},
         source: "original"
     },
     {
@@ -170,8 +170,8 @@ const artistsData = [
     },
     {
         name: "ilydima",
-        followers: {},
-        links: {},
+        followers: {"spotify": 19900},
+        links: {"spotify": "https://open.spotify.com/artist/0jfM46ZkOFpk5EkXWEhTC5"},
         source: "original"
     },
     {
