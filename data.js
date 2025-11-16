@@ -27,13 +27,13 @@ const artistsData = [
     {
         name: "argo nuff",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/argonuff/", "spotify": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"},
         source: "original"
     },
     {
         name: "Eterna",
-        followers: {},
-        links: {},
+        followers: {"spotify": 32500},
+        links: {"spotify": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"},
         source: "original"
     },
     {
@@ -140,8 +140,8 @@ const artistsData = [
     },
     {
         name: "African-American Sound",
-        followers: {},
-        links: {},
+        followers: {"instagram": 29000, "spotify": 21000},
+        links: {"instagram": "https://www.instagram.com/citiesaviv/", "spotify": "https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz", "bandcamp": "https://africanamericansoundrecordings.bandcamp.com/"},
         source: "original"
     },
     {
@@ -200,14 +200,14 @@ const artistsData = [
     },
     {
         name: "Flaer",
-        followers: {},
-        links: {},
+        followers: {"instagram": 3092, "spotify": 52000},
+        links: {"instagram": "https://www.instagram.com/flaer___/", "spotify": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di", "soundcloud": "https://soundcloud.com/flaermusic"},
         source: "original"
     },
     {
         name: "Shuta Yasukochi",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui", "bandcamp": "https://shutayasukochi.bandcamp.com/", "soundcloud": "https://soundcloud.com/shuta-yasukochi"},
         source: "original"
     },
     {

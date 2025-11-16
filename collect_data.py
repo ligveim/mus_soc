@@ -517,6 +517,43 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v",
             "bandcamp": "https://retaildrugs.bandcamp.com/"
         }
+    },
+    "argo nuff": {
+        "followers": {},
+        "links": {
+            "instagram": "https://www.instagram.com/argonuff/",
+            "spotify": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"
+        }
+    },
+    "Eterna": {
+        "followers": {"spotify": 32500},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+    },
+    "African-American Sound": {
+        "followers": {"instagram": 29000, "spotify": 21000},
+        "links": {
+            "instagram": "https://www.instagram.com/citiesaviv/",
+            "spotify": "https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz",
+            "bandcamp": "https://africanamericansoundrecordings.bandcamp.com/"
+        }
+    },
+    "Flaer": {
+        "followers": {"instagram": 3092, "spotify": 52000},
+        "links": {
+            "instagram": "https://www.instagram.com/flaer___/",
+            "spotify": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di",
+            "soundcloud": "https://soundcloud.com/flaermusic"
+        }
+    },
+    "Shuta Yasukochi": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui",
+            "bandcamp": "https://shutayasukochi.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/shuta-yasukochi"
+        }
     }
 }
 
