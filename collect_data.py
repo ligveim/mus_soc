@@ -581,6 +581,46 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/27EWfb0OYnPNxWql0eNb4X"
         }
+    },
+    "yeahsokaye": {
+        "followers": {"spotify": 29400},
+        "links": {
+            "instagram": "https://www.instagram.com/yeahsokaye/",
+            "spotify": "https://open.spotify.com/artist/0sOyXDeIf71c8M7gEGpxMG",
+            "soundcloud": "https://soundcloud.com/yeahsokaye"
+        }
+    },
+    "General Translator": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0m45Nc8OUBVWMrNIbrEx7H",
+            "bandcamp": "https://vsjrp.bandcamp.com/"
+        }
+    },
+    "Jeremy Blake": {
+        "followers": {"instagram": 11000, "spotify": 634},
+        "links": {
+            "instagram": "https://www.instagram.com/jjbbllkk/",
+            "spotify": "https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO",
+            "soundcloud": "https://soundcloud.com/jeremyblake",
+            "bandcamp": "https://soundvision.bandcamp.com/"
+        }
+    },
+    "Patricia Wolf": {
+        "followers": {"instagram": 9117, "spotify": 75000},
+        "links": {
+            "instagram": "https://www.instagram.com/patriciawolf_music/",
+            "spotify": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T",
+            "soundcloud": "https://soundcloud.com/patriciawolf_music",
+            "bandcamp": "https://patriciawolf.bandcamp.com/"
+        }
+    },
+    "Chanel Beads": {
+        "followers": {"instagram": 37000, "spotify": 384100},
+        "links": {
+            "instagram": "https://www.instagram.com/chanel_beads/",
+            "spotify": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
     }
 }
 

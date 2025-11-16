@@ -326,14 +326,14 @@ const artistsData = [
     },
     {
         name: "yeahsokaye",
-        followers: {},
-        links: {},
+        followers: {"spotify": 29400},
+        links: {"instagram": "https://www.instagram.com/yeahsokaye/", "spotify": "https://open.spotify.com/artist/0sOyXDeIf71c8M7gEGpxMG", "soundcloud": "https://soundcloud.com/yeahsokaye"},
         source: "original"
     },
     {
         name: "General Translator",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/0m45Nc8OUBVWMrNIbrEx7H", "bandcamp": "https://vsjrp.bandcamp.com/"},
         source: "original"
     },
     {
@@ -356,14 +356,14 @@ const artistsData = [
     },
     {
         name: "Jeremy Blake",
-        followers: {},
-        links: {},
+        followers: {"instagram": 11000, "spotify": 634},
+        links: {"instagram": "https://www.instagram.com/jjbbllkk/", "spotify": "https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO", "soundcloud": "https://soundcloud.com/jeremyblake", "bandcamp": "https://soundvision.bandcamp.com/"},
         source: "original"
     },
     {
         name: "Patricia Wolf",
-        followers: {},
-        links: {},
+        followers: {"instagram": 9117, "spotify": 75000},
+        links: {"instagram": "https://www.instagram.com/patriciawolf_music/", "spotify": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T", "soundcloud": "https://soundcloud.com/patriciawolf_music", "bandcamp": "https://patriciawolf.bandcamp.com/"},
         source: "original"
     },
     {
