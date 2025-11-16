@@ -602,32 +602,32 @@ const artistsData = [
     },
     {
         name: "Lusine",
-        followers: {},
-        links: {},
+        followers: {"instagram": 4255},
+        links: {"instagram": "https://www.instagram.com/lusine_music/", "spotify": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub", "soundcloud": "https://soundcloud.com/lusine-official", "website": "http://lusineweb.com/"},
         source: "similar"
     },
     {
         name: "George Clanton",
-        followers: {},
-        links: {},
+        followers: {"instagram": 91000, "spotify": 1400000},
+        links: {"instagram": "https://www.instagram.com/georgeclanton/", "spotify": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr", "bandcamp": "https://georgeclanton.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Ilkae",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/3syDQTaZptGpu5iyYJxLnl", "bandcamp": "https://ilkae.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "PilotRedSun",
-        followers: {},
-        links: {},
+        followers: {"spotify": 21000},
+        links: {"spotify": "https://open.spotify.com/artist/5hxE1UR58Ku5MUdJxVGc0e"},
         source: "similar"
     },
     {
         name: "Rei Harakami",
-        followers: {},
-        links: {},
+        followers: {"spotify": 57600},
+        links: {"spotify": "https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB"},
         source: "similar"
     },
     {

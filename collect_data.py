@@ -869,6 +869,42 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l",
             "bandcamp": "https://teendaze.bandcamp.com/"
         }
+    },
+    "Lusine": {
+        "followers": {"instagram": 4255},
+        "links": {
+            "instagram": "https://www.instagram.com/lusine_music/",
+            "spotify": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub",
+            "soundcloud": "https://soundcloud.com/lusine-official",
+            "website": "http://lusineweb.com/"
+        }
+    },
+    "George Clanton": {
+        "followers": {"instagram": 91000, "spotify": 1400000},
+        "links": {
+            "instagram": "https://www.instagram.com/georgeclanton/",
+            "spotify": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr",
+            "bandcamp": "https://georgeclanton.bandcamp.com/"
+        }
+    },
+    "Ilkae": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3syDQTaZptGpu5iyYJxLnl",
+            "bandcamp": "https://ilkae.bandcamp.com/"
+        }
+    },
+    "PilotRedSun": {
+        "followers": {"spotify": 21000},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5hxE1UR58Ku5MUdJxVGc0e"
+        }
+    },
+    "Rei Harakami": {
+        "followers": {"spotify": 57600},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB"
+        }
     }
 }
 
