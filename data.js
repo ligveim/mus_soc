@@ -44,8 +44,8 @@ const artistsData = [
     },
     {
         name: "Infinity Frequencies",
-        followers: {},
-        links: {},
+        followers: {"spotify": 342400},
+        links: {"spotify": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp", "bandcamp": "https://computer-gaze.bandcamp.com"},
         source: "original"
     },
     {
@@ -68,8 +68,8 @@ const artistsData = [
     },
     {
         name: "Forma Norte",
-        followers: {},
-        links: {},
+        followers: {"spotify": 76200},
+        links: {"spotify": "https://open.spotify.com/artist/1GUci0loUu7Ysy2YkLLick"},
         source: "original"
     },
     {
@@ -116,8 +116,8 @@ const artistsData = [
     },
     {
         name: "Loukeman",
-        followers: {},
-        links: {},
+        followers: {"instagram": 24000, "spotify": 325600},
+        links: {"instagram": "https://www.instagram.com/loukeman/", "spotify": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL", "soundcloud": "https://soundcloud.com/loukeman", "website": "https://loukeman.com/"},
         source: "original"
     },
     {
@@ -225,7 +225,7 @@ const artistsData = [
     {
         name: "US Golf 95",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox", "bandcamp": "https://usgolf95.bandcamp.com/"},
         source: "original"
     },
     {
