@@ -442,6 +442,44 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp",
             "bandcamp": "https://computer-gaze.bandcamp.com/"
         }
+    },
+    "Jeremiah Chiu": {
+        "followers": {"instagram": 12000, "spotify": 74400},
+        "links": {
+            "instagram": "https://www.instagram.com/jeremiahchiu/",
+            "spotify": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa",
+            "bandcamp": "https://jeremiahchiu.bandcamp.com/",
+            "website": "https://www.jeremiahchiu.com/"
+        }
+    },
+    "Hooky": {
+        "followers": {"instagram": 5164, "spotify": 13},
+        "links": {
+            "instagram": "https://www.instagram.com/h0o0ky/",
+            "spotify": "https://open.spotify.com/artist/1JtMqJjABFQTQWUNml1pek",
+            "soundcloud": "https://soundcloud.com/h0o0ky",
+            "bandcamp": "https://hoooky.bandcamp.com/"
+        }
+    },
+    "Chihei Hatakeyama": {
+        "followers": {"spotify": 190300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+    },
+    "The Dead Texan": {
+        "followers": {"spotify": 36500},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT",
+            "bandcamp": "https://starsofthelid.bandcamp.com/album/the-dead-texan"
+        }
+    },
+    "sugar plant": {
+        "followers": {"spotify": 68100},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o",
+            "bandcamp": "https://sugarplant.bandcamp.com/"
+        }
     }
 }
 

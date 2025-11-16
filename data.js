@@ -212,8 +212,8 @@ const artistsData = [
     },
     {
         name: "sugar plant",
-        followers: {},
-        links: {},
+        followers: {"spotify": 68100},
+        links: {"spotify": "https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o", "bandcamp": "https://sugarplant.bandcamp.com/"},
         source: "original"
     },
     {
@@ -284,8 +284,8 @@ const artistsData = [
     },
     {
         name: "The Dead Texan",
-        followers: {},
-        links: {},
+        followers: {"spotify": 36500},
+        links: {"spotify": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT", "bandcamp": "https://starsofthelid.bandcamp.com/album/the-dead-texan"},
         source: "original"
     },
     {
@@ -302,8 +302,8 @@ const artistsData = [
     },
     {
         name: "Chihei Hatakeyama",
-        followers: {},
-        links: {},
+        followers: {"spotify": 190300},
+        links: {"spotify": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"},
         source: "original"
     },
     {
@@ -314,14 +314,14 @@ const artistsData = [
     },
     {
         name: "Jeremiah Chiu",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 74400},
+        links: {"instagram": "https://www.instagram.com/jeremiahchiu/", "spotify": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa", "bandcamp": "https://jeremiahchiu.bandcamp.com/", "website": "https://www.jeremiahchiu.com/"},
         source: "original"
     },
     {
         name: "Hooky",
-        followers: {},
-        links: {},
+        followers: {"instagram": 5164, "spotify": 13},
+        links: {"instagram": "https://www.instagram.com/h0o0ky/", "spotify": "https://open.spotify.com/artist/1JtMqJjABFQTQWUNml1pek", "soundcloud": "https://soundcloud.com/h0o0ky", "bandcamp": "https://hoooky.bandcamp.com/"},
         source: "original"
     },
     {
