@@ -273,4 +273,25 @@ const visualArtistsData = [
         categories: ["digital architecture", "virtual worlds", "Berlin-based", "Hamburger Kunsthalle collection"],
         source: "similar"
     },
+    {
+        name: "elegantcollisions",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/elegantcollisions/", "website": "https://elegantcollisions.com"},
+        categories: ["Black computational thought", "UCLA DMA", "researcher", "Transmediale", "The Kitchen NYC"],
+        source: "similar"
+    },
+    {
+        name: "charstiles",
+        followers: {"instagram": 22000},
+        links: {"instagram": "https://www.instagram.com/charstiles/", "website": "https://charstiles.com"},
+        categories: ["live coding", "shader programming", "MIT Media Lab", "Future Sketches", "computational artist"],
+        source: "similar"
+    },
+    {
+        name: "davidquilesguillo",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/davidquilesguillo/"},
+        categories: ["curator", "Wrong Biennale founder", "digital art curator", "Spain-based", "independent"],
+        source: "similar"
+    },
 ];

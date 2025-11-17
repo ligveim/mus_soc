@@ -77,6 +77,11 @@ similar_artists = [
 
     # Expanded.art / Digital Architecture
     "manuelrossner",  # Manuel Rossner
+
+    # Curators / Researchers / Writers (niche, under 20K)
+    "elegantcollisions",  # Romi Ron Morrison - Black computational thought
+    "charstiles",  # Char Stiles - MIT Media Lab, live coding
+    "davidquilesguillo",  # David Quiles Guilló - Wrong Biennale founder
 ]
 
 # Collected data
@@ -385,6 +390,31 @@ collected_data = {
             "website": "https://www.manuelrossner.com"
         },
         "categories": ["digital architecture", "virtual worlds", "Berlin-based", "Hamburger Kunsthalle collection"]
+    },
+
+    # Curators / Researchers / Writers (niche, under 20K)
+    "elegantcollisions": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/elegantcollisions/",
+            "website": "https://elegantcollisions.com"
+        },
+        "categories": ["Black computational thought", "UCLA DMA", "researcher", "Transmediale", "The Kitchen NYC"]
+    },
+    "charstiles": {
+        "followers": {"instagram": 22000},
+        "links": {
+            "instagram": "https://www.instagram.com/charstiles/",
+            "website": "https://charstiles.com"
+        },
+        "categories": ["live coding", "shader programming", "MIT Media Lab", "Future Sketches", "computational artist"]
+    },
+    "davidquilesguillo": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/davidquilesguillo/"
+        },
+        "categories": ["curator", "Wrong Biennale founder", "digital art curator", "Spain-based", "independent"]
     },
 }
 
