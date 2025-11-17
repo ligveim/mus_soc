@@ -1082,32 +1082,32 @@ const artistsData = [
     },
     {
         name: "Wojciech Rusin",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2536},
+        links: {"instagram": "https://www.instagram.com/wojciech_rusin/", "spotify": "https://open.spotify.com/artist/0WxdhadZph0QW3C9sKB6zo"},
         source: "similar"
     },
     {
         name: "Peel Dream Magazine",
-        followers: {},
-        links: {},
+        followers: {"instagram": 10000, "spotify": 143900},
+        links: {"instagram": "https://www.instagram.com/peeldreammagazine/", "spotify": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"},
         source: "similar"
     },
     {
         name: "Isabel's Dream",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/5IpYJbjCu8zfDTRh2nycLv"},
         source: "similar"
     },
     {
         name: "Florence Sinclair",
-        followers: {},
-        links: {},
+        followers: {"instagram": 14000, "spotify": 31900},
+        links: {"instagram": "https://www.instagram.com/sincl6ir/", "spotify": "https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W", "linktree": "https://linktr.ee/florencesinclair"},
         source: "similar"
     },
     {
         name: "The Veldt",
-        followers: {},
-        links: {},
+        followers: {"instagram": 9051, "spotify": 13400},
+        links: {"instagram": "https://www.instagram.com/_theveldt/", "spotify": "https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu"},
         source: "similar"
     },
     {

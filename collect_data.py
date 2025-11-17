@@ -1483,6 +1483,41 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp",
             "bandcamp": "https://zavoloka.bandcamp.com/"
         }
+    },
+    "Wojciech Rusin": {
+        "followers": {"instagram": 2536},
+        "links": {
+            "instagram": "https://www.instagram.com/wojciech_rusin/",
+            "spotify": "https://open.spotify.com/artist/0WxdhadZph0QW3C9sKB6zo"
+        }
+    },
+    "Peel Dream Magazine": {
+        "followers": {"instagram": 10000, "spotify": 143900},
+        "links": {
+            "instagram": "https://www.instagram.com/peeldreammagazine/",
+            "spotify": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+    },
+    "Isabel's Dream": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5IpYJbjCu8zfDTRh2nycLv"
+        }
+    },
+    "Florence Sinclair": {
+        "followers": {"instagram": 14000, "spotify": 31900},
+        "links": {
+            "instagram": "https://www.instagram.com/sincl6ir/",
+            "spotify": "https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W",
+            "linktree": "https://linktr.ee/florencesinclair"
+        }
+    },
+    "The Veldt": {
+        "followers": {"instagram": 9051, "spotify": 13400},
+        "links": {
+            "instagram": "https://www.instagram.com/_theveldt/",
+            "spotify": "https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu"
+        }
     }
 }
 
