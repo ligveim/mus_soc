@@ -992,32 +992,32 @@ const artistsData = [
     },
     {
         name: "RATBOWL",
-        followers: {},
-        links: {},
+        followers: {"spotify": 5700},
+        links: {"spotify": "https://open.spotify.com/artist/285TycMGZecVnNPuDIQWjo"},
         source: "similar"
     },
     {
         name: "timesgone",
-        followers: {},
-        links: {},
+        followers: {"spotify": 55500},
+        links: {"spotify": "https://open.spotify.com/artist/6o8NuWO2TGWWIQ5rDPynoG"},
         source: "similar"
     },
     {
         name: "leverfall",
-        followers: {},
-        links: {},
+        followers: {"instagram": 6171, "spotify": 596400},
+        links: {"instagram": "https://www.instagram.com/leverfall/", "spotify": "https://open.spotify.com/artist/1YADFycnliZ7F34FA9eE18"},
         source: "similar"
     },
     {
         name: "Violent Mercenary",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/track/7CE1zkJRE92h1vCD8TbDf1"},
         source: "similar"
     },
     {
         name: "Captain Crocodile",
-        followers: {},
-        links: {},
+        followers: {"instagram": 3911},
+        links: {"instagram": "https://www.instagram.com/captain_crocodile/", "spotify": "https://open.spotify.com/artist/3TZxLMW0coeEN7GRT4M4e7", "bandcamp": "https://cptcroc.bandcamp.com/", "soundcloud": "https://soundcloud.com/user-811310091-97341844"},
         source: "similar"
     },
     {
