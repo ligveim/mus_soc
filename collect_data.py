@@ -1052,6 +1052,43 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/3ZKoKSGZu4rDSFXmS6loHK"
         }
+    },
+    "Akiba": {
+        "followers": {"instagram": 2405, "spotify": 156700},
+        "links": {
+            "instagram": "https://www.instagram.com/jayakiba/",
+            "spotify": "https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc",
+            "bandcamp": "https://jayakiba.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/akibanime"
+        }
+    },
+    "Ftlframe": {
+        "followers": {"spotify": 122600},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0",
+            "bandcamp": "https://ftlframe.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/ftlframe"
+        }
+    },
+    "SAGEISKAMI": {
+        "followers": {"spotify": 35300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6SGVSqPxYUYa885J3dtXQu"
+        }
+    },
+    "Lomaji": {
+        "followers": {"instagram": 2766, "spotify": 30},
+        "links": {
+            "instagram": "https://www.instagram.com/lomaji001/",
+            "spotify": "https://open.spotify.com/artist/7s8NFcsQHWCwmdqfS6fMXH"
+        }
+    },
+    "a l e x": {
+        "followers": {"spotify": 221300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ",
+            "bandcamp": "https://beatsupply.bandcamp.com/album/growing-up-vol-2"
+        }
     }
 }
 

@@ -752,32 +752,32 @@ const artistsData = [
     },
     {
         name: "Akiba",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2405, "spotify": 156700},
+        links: {"instagram": "https://www.instagram.com/jayakiba/", "spotify": "https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc", "bandcamp": "https://jayakiba.bandcamp.com/", "soundcloud": "https://soundcloud.com/akibanime"},
         source: "similar"
     },
     {
         name: "Ftlframe",
-        followers: {},
-        links: {},
+        followers: {"spotify": 122600},
+        links: {"spotify": "https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0", "bandcamp": "https://ftlframe.bandcamp.com/", "soundcloud": "https://soundcloud.com/ftlframe"},
         source: "similar"
     },
     {
         name: "SAGEISKAMI",
-        followers: {},
-        links: {},
+        followers: {"spotify": 35300},
+        links: {"spotify": "https://open.spotify.com/artist/6SGVSqPxYUYa885J3dtXQu"},
         source: "similar"
     },
     {
         name: "Lomaji",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2766, "spotify": 30},
+        links: {"instagram": "https://www.instagram.com/lomaji001/", "spotify": "https://open.spotify.com/artist/7s8NFcsQHWCwmdqfS6fMXH"},
         source: "similar"
     },
     {
         name: "a l e x",
-        followers: {},
-        links: {},
+        followers: {"spotify": 221300},
+        links: {"spotify": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ", "bandcamp": "https://beatsupply.bandcamp.com/album/growing-up-vol-2"},
         source: "similar"
     },
     {
