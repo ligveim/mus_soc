@@ -1022,32 +1022,32 @@ const artistsData = [
     },
     {
         name: "Sulie",
-        followers: {},
-        links: {},
+        followers: {"instagram": 206000, "spotify": 17},
+        links: {"instagram": "https://www.instagram.com/akhsulie/", "spotify": "https://open.spotify.com/artist/4ZTfwQCvRcgmHXzmgfxUlM"},
         source: "similar"
     },
     {
         name: "Kaikobad",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az", "bandcamp": "https://kaikobad.bandcamp.com/", "linktree": "https://linktr.ee/kaikobad"},
         source: "similar"
     },
     {
         name: "Pearling",
-        followers: {},
-        links: {},
+        followers: {"spotify": 7500},
+        links: {"spotify": "https://open.spotify.com/artist/3q7tzDobzMqdYhv6huNbr7"},
         source: "similar"
     },
     {
         name: "yawning portal",
-        followers: {},
-        links: {},
+        followers: {"instagram": 6677},
+        links: {"instagram": "https://www.instagram.com/yawningportal/", "spotify": "https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC", "bandcamp": "https://yawningportal.bandcamp.com/", "soundcloud": "https://soundcloud.com/yawningportal"},
         source: "similar"
     },
     {
         name: "Adolf Nomura",
-        followers: {},
-        links: {},
+        followers: {"spotify": 93800},
+        links: {"spotify": "https://open.spotify.com/artist/0iDqn417kRnYSjbUAkibvu", "bandcamp": "https://thorhighheels.bandcamp.com/album/adolf-nomura"},
         source: "similar"
     },
     {
