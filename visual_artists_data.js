@@ -322,4 +322,18 @@ const visualArtistsData = [
         categories: ["3D art", "AI art", "Sotheby's", "Burberry collab", "Gucci collab", "female sensuality", "Paris-based"],
         source: "similar"
     },
+    {
+        name: "0xstc",
+        followers: {"instagram": 465},
+        links: {"instagram": "https://www.instagram.com/0xstc/", "website": "https://stc.github.io"},
+        categories: ["algorithmic art", "generative art", "MIT", "ZKM Karlsruhe", "Mutek Festival", "Binaura collective", "Budapest"],
+        source: "similar"
+    },
+    {
+        name: "schwittlick",
+        followers: {"instagram": 2735},
+        links: {"instagram": "https://www.instagram.com/schwittlick/", "website": "https://schwittlick.net"},
+        categories: ["plotter art", "algorithmic art", "drawing machines", "Berlin-based", "computer science + art", "generative"],
+        source: "similar"
+    },
 ];

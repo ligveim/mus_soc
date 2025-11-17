@@ -88,6 +88,8 @@ similar_artists = [
     "aurecevettier",  # aurèce vettier - Vera Molnár collaborator, Lyon museum
     "heliosantossz",  # Helio Santos - 4,507 followers - AI + robotic oil painting
     "wonderkatzi",  # Sasha Katz - 16K followers - Sotheby's, Burberry, Gucci
+    "0xstc",  # Agoston Nagy - 465 followers - ULTRA NICHE! MIT, ZKM, Mutek
+    "schwittlick",  # Marcel Schwittlick - 2,735 followers - plotter art, algorithms, Berlin
 ]
 
 # Collected data
@@ -455,6 +457,22 @@ collected_data = {
             "website": "https://sashakatz.com"
         },
         "categories": ["3D art", "AI art", "Sotheby's", "Burberry collab", "Gucci collab", "female sensuality", "Paris-based"]
+    },
+    "0xstc": {
+        "followers": {"instagram": 465},
+        "links": {
+            "instagram": "https://www.instagram.com/0xstc/",
+            "website": "https://stc.github.io"
+        },
+        "categories": ["algorithmic art", "generative art", "MIT", "ZKM Karlsruhe", "Mutek Festival", "Binaura collective", "Budapest"]
+    },
+    "schwittlick": {
+        "followers": {"instagram": 2735},
+        "links": {
+            "instagram": "https://www.instagram.com/schwittlick/",
+            "website": "https://schwittlick.net"
+        },
+        "categories": ["plotter art", "algorithmic art", "drawing machines", "Berlin-based", "computer science + art", "generative"]
     },
 }
 
