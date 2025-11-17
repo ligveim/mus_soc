@@ -1338,6 +1338,41 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/7jI7lZJvxKp2bd6wNctYYy"
         }
+    },
+    "Stive Morgan": {
+        "followers": {"spotify": 62100},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5gCBbAjdGfXKthsKauWaYo",
+            "soundcloud": "https://soundcloud.com/stivemorgan"
+        }
+    },
+    "Organ Tapes": {
+        "followers": {"instagram": 10000, "spotify": 12700},
+        "links": {
+            "instagram": "https://www.instagram.com/corpmane/",
+            "spotify": "https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS",
+            "soundcloud": "https://m.soundcloud.com/organtapes"
+        }
+    },
+    "Malibu": {
+        "followers": {"spotify": 8100000},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+    },
+    "Bo Khat Eternal Troof Family Band": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5VSM1CJllPTcCrlUjdwSJG"
+        }
+    },
+    "Erik Aharzoth": {
+        "followers": {"instagram": 2194, "spotify": 3190},
+        "links": {
+            "instagram": "https://www.instagram.com/erikaharzoth/",
+            "spotify": "https://open.spotify.com/artist/5sForv42AEC8bhGhtt2qCb",
+            "linktree": "https://linktr.ee/aharzoth"
+        }
     }
 }
 

@@ -962,32 +962,32 @@ const artistsData = [
     },
     {
         name: "Stive Morgan",
-        followers: {},
-        links: {},
+        followers: {"spotify": 62100},
+        links: {"spotify": "https://open.spotify.com/artist/5gCBbAjdGfXKthsKauWaYo", "soundcloud": "https://soundcloud.com/stivemorgan"},
         source: "similar"
     },
     {
         name: "Organ Tapes",
-        followers: {},
-        links: {},
+        followers: {"instagram": 10000, "spotify": 12700},
+        links: {"instagram": "https://www.instagram.com/corpmane/", "spotify": "https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS", "soundcloud": "https://m.soundcloud.com/organtapes"},
         source: "similar"
     },
     {
         name: "Malibu",
-        followers: {},
-        links: {},
+        followers: {"spotify": 8100000},
+        links: {"spotify": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"},
         source: "similar"
     },
     {
         name: "Bo Khat Eternal Troof Family Band",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/5VSM1CJllPTcCrlUjdwSJG"},
         source: "similar"
     },
     {
         name: "Erik Aharzoth",
-        followers: {},
-        links: {},
+        followers: {"instagram": 2194, "spotify": 3190},
+        links: {"instagram": "https://www.instagram.com/erikaharzoth/", "spotify": "https://open.spotify.com/artist/5sForv42AEC8bhGhtt2qCb", "linktree": "https://linktr.ee/aharzoth"},
         source: "similar"
     },
     {
