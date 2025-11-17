@@ -940,6 +940,41 @@ collected_data = {
             "instagram": "https://www.instagram.com/usedcvnt/",
             "spotify": "https://open.spotify.com/artist/54Xm6xMcgYBf0Q6jwKU3Yg"
         }
+    },
+    "DJ Kuroneko": {
+        "followers": {"instagram": 9168, "spotify": 54800},
+        "links": {
+            "instagram": "https://www.instagram.com/dj.kuroneko/",
+            "spotify": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"
+        }
+    },
+    "Sink Saiko": {
+        "followers": {"instagram": 504, "spotify": 85900},
+        "links": {
+            "instagram": "https://www.instagram.com/sink_saiko/",
+            "spotify": "https://open.spotify.com/artist/0WJe90PYpgJmXoPHQZawVJ",
+            "bandcamp": "https://sinksaiko.bandcamp.com/"
+        }
+    },
+    "Xxtarlit⚸": {
+        "followers": {"spotify": 98300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc"
+        }
+    },
+    "ZenithLights": {
+        "followers": {"spotify": 3900},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1FVVsgAN5FbTzKi7OcatXw",
+            "bandcamp": "https://zenithplight.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/angelvoidkin"
+        }
+    },
+    "骨架的": {
+        "followers": {},
+        "links": {
+            "bandcamp": "https://nightcoverage.bandcamp.com/album/skeleton-remastered"
+        }
     }
 }
 

@@ -662,32 +662,32 @@ const artistsData = [
     },
     {
         name: "DJ Kuroneko",
-        followers: {},
-        links: {},
+        followers: {"instagram": 9168, "spotify": 54800},
+        links: {"instagram": "https://www.instagram.com/dj.kuroneko/", "spotify": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"},
         source: "similar"
     },
     {
         name: "Sink Saiko",
-        followers: {},
-        links: {},
+        followers: {"instagram": 504, "spotify": 85900},
+        links: {"instagram": "https://www.instagram.com/sink_saiko/", "spotify": "https://open.spotify.com/artist/0WJe90PYpgJmXoPHQZawVJ", "bandcamp": "https://sinksaiko.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Xxtarlit⚸",
-        followers: {},
-        links: {},
+        followers: {"spotify": 98300},
+        links: {"spotify": "https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc"},
         source: "similar"
     },
     {
         name: "ZenithLights",
-        followers: {},
-        links: {},
+        followers: {"spotify": 3900},
+        links: {"spotify": "https://open.spotify.com/artist/1FVVsgAN5FbTzKi7OcatXw", "bandcamp": "https://zenithplight.bandcamp.com/", "soundcloud": "https://soundcloud.com/angelvoidkin"},
         source: "similar"
     },
     {
         name: "骨架的",
         followers: {},
-        links: {},
+        links: {"bandcamp": "https://nightcoverage.bandcamp.com/album/skeleton-remastered"},
         source: "similar"
     },
     {
