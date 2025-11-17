@@ -364,4 +364,18 @@ const visualArtistsData = [
         categories: ["generative art", "creative coding", "Lumen Prize 2022", "Art Blocks Director", "Seattle", "engineer + artist"],
         source: "similar"
     },
+    {
+        name: "leander.herzog",
+        followers: {"instagram": 2591},
+        links: {"instagram": "https://www.instagram.com/leander.herzog/", "website": "https://leanderherzog.ch"},
+        categories: ["generative art", "interactive abstraction", "Swiss artist", "Transmediale", "St.Gallen", "web-based"],
+        source: "similar"
+    },
+    {
+        name: "kimasendorf",
+        followers: {"instagram": 9698},
+        links: {"instagram": "https://www.instagram.com/kimasendorf/", "website": "https://teh.kim"},
+        categories: ["pixel sorting creator", "net art", "digital expressionism", "Bremen", "ZKM", "Transmediale", "open source"],
+        source: "similar"
+    },
 ];

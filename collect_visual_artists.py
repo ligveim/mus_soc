@@ -94,6 +94,8 @@ similar_artists = [
     "annacarreras.art",  # Anna Carreras - 631 followers - ULTRA NICHE! Cannes Golden Lion, Barcelona
     "ognyveli",  # Iskra Velitchkova - 3,972 followers - Bulgarian, Forbes, BBVA awards, Madrid
     "aaron_penne",  # Aaron Penne - 11K followers - Lumen Prize, Art Blocks Director
+    "leander.herzog",  # Leander Herzog - 2,591 followers - Swiss, Transmediale, St.Gallen
+    "kimasendorf",  # Kim Asendorf - 9,698 followers - pixel sorting creator, Bremen, net art legend
 ]
 
 # Collected data
@@ -509,6 +511,22 @@ collected_data = {
             "website": "https://www.aaronpenne.io"
         },
         "categories": ["generative art", "creative coding", "Lumen Prize 2022", "Art Blocks Director", "Seattle", "engineer + artist"]
+    },
+    "leander.herzog": {
+        "followers": {"instagram": 2591},
+        "links": {
+            "instagram": "https://www.instagram.com/leander.herzog/",
+            "website": "https://leanderherzog.ch"
+        },
+        "categories": ["generative art", "interactive abstraction", "Swiss artist", "Transmediale", "St.Gallen", "web-based"]
+    },
+    "kimasendorf": {
+        "followers": {"instagram": 9698},
+        "links": {
+            "instagram": "https://www.instagram.com/kimasendorf/",
+            "website": "https://teh.kim"
+        },
+        "categories": ["pixel sorting creator", "net art", "digital expressionism", "Bremen", "ZKM", "Transmediale", "open source"]
     },
 }
 
