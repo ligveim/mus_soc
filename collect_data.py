@@ -905,6 +905,41 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB"
         }
+    },
+    "Osamu Sato": {
+        "followers": {"instagram": 5887, "spotify": 3800},
+        "links": {
+            "instagram": "https://www.instagram.com/osamusato/",
+            "spotify": "https://open.spotify.com/artist/2ssvisCFlLv8BweTmjqIaA"
+        }
+    },
+    "Meitei": {
+        "followers": {"instagram": 22000, "spotify": 154500},
+        "links": {
+            "instagram": "https://www.instagram.com/meitei.japan/",
+            "spotify": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+    },
+    "Subete Anata no Sei Desu": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4Jgqs4jg9z7AkUduc66GEc",
+            "youtube": "https://www.youtube.com/channel/UC27m3R6W5sP7-QLfMTEso2w"
+        }
+    },
+    "Sewerslvt": {
+        "followers": {"instagram": 69000, "spotify": 458700},
+        "links": {
+            "instagram": "https://www.instagram.com/sewerslvt/",
+            "spotify": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"
+        }
+    },
+    "usedcvnt": {
+        "followers": {"instagram": 32000, "spotify": 288800},
+        "links": {
+            "instagram": "https://www.instagram.com/usedcvnt/",
+            "spotify": "https://open.spotify.com/artist/54Xm6xMcgYBf0Q6jwKU3Yg"
+        }
     }
 }
 
