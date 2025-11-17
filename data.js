@@ -903,31 +903,31 @@ const artistsData = [
     {
         name: "Equip",
         followers: {},
-        links: {},
+        links: {"instagram": "https://www.instagram.com/worldofequip/", "spotify": "https://open.spotify.com/artist/3IOhNbmcUbaMuJkmyfkfE0", "bandcamp": "https://worldofequip.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "VAPERROR",
-        followers: {},
-        links: {},
+        followers: {"instagram": 7091},
+        links: {"instagram": "https://www.instagram.com/vaperror/", "spotify": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha", "bandcamp": "https://vaperror.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Diskette Park",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"},
         source: "similar"
     },
     {
         name: "FM Skyline",
-        followers: {},
-        links: {},
+        followers: {"instagram": 7439},
+        links: {"instagram": "https://www.instagram.com/fm_skyline/", "spotify": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf", "bandcamp": "https://fmskyline.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "vcr-classique",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"},
         source: "similar"
     },
     {

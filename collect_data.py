@@ -1241,6 +1241,42 @@ collected_data = {
             "bandcamp": "https://windows96.bandcamp.com/",
             "website": "https://www.windows96.org/"
         }
+    },
+    "Equip": {
+        "followers": {},
+        "links": {
+            "instagram": "https://www.instagram.com/worldofequip/",
+            "spotify": "https://open.spotify.com/artist/3IOhNbmcUbaMuJkmyfkfE0",
+            "bandcamp": "https://worldofequip.bandcamp.com/"
+        }
+    },
+    "VAPERROR": {
+        "followers": {"instagram": 7091},
+        "links": {
+            "instagram": "https://www.instagram.com/vaperror/",
+            "spotify": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha",
+            "bandcamp": "https://vaperror.bandcamp.com/"
+        }
+    },
+    "Diskette Park": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+    },
+    "FM Skyline": {
+        "followers": {"instagram": 7439},
+        "links": {
+            "instagram": "https://www.instagram.com/fm_skyline/",
+            "spotify": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf",
+            "bandcamp": "https://fmskyline.bandcamp.com/"
+        }
+    },
+    "vcr-classique": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
+        }
     }
 }
 
