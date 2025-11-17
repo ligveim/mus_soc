@@ -872,32 +872,32 @@ const artistsData = [
     },
     {
         name: "vmrrobotic",
-        followers: {},
-        links: {},
+        followers: {"spotify": 22600},
+        links: {"spotify": "https://open.spotify.com/artist/4JucGsdmOCq6MAzjsugnEj"},
         source: "similar"
     },
     {
         name: "Aeriu Ika",
-        followers: {},
-        links: {},
+        followers: {"spotify": 39400},
+        links: {"instagram": "https://www.instagram.com/aeriu_ika/", "spotify": "https://open.spotify.com/artist/3C6eumg4cJXUlf5K83LPnA", "bandcamp": "https://aeriuika.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Robinson's Village",
-        followers: {},
-        links: {},
+        followers: {"spotify": 23100},
+        links: {"spotify": "https://open.spotify.com/artist/6Sgq1dL8uoxXhdKi1tZLIW"},
         source: "similar"
     },
     {
         name: "Sangam",
-        followers: {},
-        links: {},
+        followers: {"spotify": 77300},
+        links: {"spotify": "https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR", "bandcamp": "https://sangam.bandcamp.com/", "twitter": "https://twitter.com/HVRTSangam"},
         source: "similar"
     },
     {
         name: "Windows 96",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 156100},
+        links: {"instagram": "https://www.instagram.com/whitegavriel/", "spotify": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i", "bandcamp": "https://windows96.bandcamp.com/", "website": "https://www.windows96.org/"},
         source: "similar"
     },
     {

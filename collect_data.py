@@ -1204,6 +1204,43 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6"
         }
+    },
+    "vmrrobotic": {
+        "followers": {"spotify": 22600},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4JucGsdmOCq6MAzjsugnEj"
+        }
+    },
+    "Aeriu Ika": {
+        "followers": {"spotify": 39400},
+        "links": {
+            "instagram": "https://www.instagram.com/aeriu_ika/",
+            "spotify": "https://open.spotify.com/artist/3C6eumg4cJXUlf5K83LPnA",
+            "bandcamp": "https://aeriuika.bandcamp.com/"
+        }
+    },
+    "Robinson's Village": {
+        "followers": {"spotify": 23100},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6Sgq1dL8uoxXhdKi1tZLIW"
+        }
+    },
+    "Sangam": {
+        "followers": {"spotify": 77300},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR",
+            "bandcamp": "https://sangam.bandcamp.com/",
+            "twitter": "https://twitter.com/HVRTSangam"
+        }
+    },
+    "Windows 96": {
+        "followers": {"instagram": 12000, "spotify": 156100},
+        "links": {
+            "instagram": "https://www.instagram.com/whitegavriel/",
+            "spotify": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i",
+            "bandcamp": "https://windows96.bandcamp.com/",
+            "website": "https://www.windows96.org/"
+        }
     }
 }
 
