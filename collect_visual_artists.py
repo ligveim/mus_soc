@@ -86,6 +86,8 @@ similar_artists = [
     # Expanded.art roster (niche, strong style)
     "peterburr",  # Peter Burr - 6,565 followers - Whitney, MoMA, Guggenheim
     "aurecevettier",  # aurèce vettier - Vera Molnár collaborator, Lyon museum
+    "heliosantossz",  # Helio Santos - 4,507 followers - AI + robotic oil painting
+    "wonderkatzi",  # Sasha Katz - 16K followers - Sotheby's, Burberry, Gucci
 ]
 
 # Collected data
@@ -437,6 +439,22 @@ collected_data = {
             "website": "https://www.aurecevettier.com"
         },
         "categories": ["generative art", "AI art", "Vera Molnár collaborator", "French artist", "bronze sculpture", "tapestry", "oil painting"]
+    },
+    "heliosantossz": {
+        "followers": {"instagram": 4507},
+        "links": {
+            "instagram": "https://www.instagram.com/heliosantossz/",
+            "website": "https://heliosantos.org"
+        },
+        "categories": ["AI art", "robotic painting", "oil painting", "Mexican artist", "landscape", "machine learning"]
+    },
+    "wonderkatzi": {
+        "followers": {"instagram": 16000},
+        "links": {
+            "instagram": "https://www.instagram.com/wonderkatzi/",
+            "website": "https://sashakatz.com"
+        },
+        "categories": ["3D art", "AI art", "Sotheby's", "Burberry collab", "Gucci collab", "female sensuality", "Paris-based"]
     },
 }
 

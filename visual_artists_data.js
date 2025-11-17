@@ -308,4 +308,18 @@ const visualArtistsData = [
         categories: ["generative art", "AI art", "Vera Moln\u00e1r collaborator", "French artist", "bronze sculpture", "tapestry", "oil painting"],
         source: "similar"
     },
+    {
+        name: "heliosantossz",
+        followers: {"instagram": 4507},
+        links: {"instagram": "https://www.instagram.com/heliosantossz/", "website": "https://heliosantos.org"},
+        categories: ["AI art", "robotic painting", "oil painting", "Mexican artist", "landscape", "machine learning"],
+        source: "similar"
+    },
+    {
+        name: "wonderkatzi",
+        followers: {"instagram": 16000},
+        links: {"instagram": "https://www.instagram.com/wonderkatzi/", "website": "https://sashakatz.com"},
+        categories: ["3D art", "AI art", "Sotheby's", "Burberry collab", "Gucci collab", "female sensuality", "Paris-based"],
+        source: "similar"
+    },
 ];
