@@ -1112,8 +1112,8 @@ const artistsData = [
     },
     {
         name: "Acopia",
-        followers: {},
-        links: {},
+        followers: {"instagram": 11000, "spotify": 334600},
+        links: {"instagram": "https://www.instagram.com/acopia_/", "spotify": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"},
         source: "similar"
     },
     {
@@ -1148,8 +1148,8 @@ const artistsData = [
     },
     {
         name: "Maria Somerville",
-        followers: {},
-        links: {},
+        followers: {"instagram": 20000, "spotify": 62800},
+        links: {"instagram": "https://www.instagram.com/maria__somerville/", "spotify": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd", "soundcloud": "https://soundcloud.com/somervillesounds"},
         source: "similar"
     },
 ];
