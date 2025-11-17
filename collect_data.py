@@ -1012,6 +1012,46 @@ collected_data = {
             "bandcamp": "https://notnedaj.bandcamp.com/",
             "website": "https://www.nedaj.us/"
         }
+    },
+    "TOKYOPILL": {
+        "followers": {"spotify": 171000},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X",
+            "bandcamp": "https://tokyopill.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/tokyopill",
+            "linktree": "https://linktr.ee/tokyopill"
+        }
+    },
+    "BLKSMIITH": {
+        "followers": {"instagram": 20000, "spotify": 373100},
+        "links": {
+            "instagram": "https://www.instagram.com/blksmiith/",
+            "spotify": "https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu",
+            "linktree": "https://linktr.ee/blksmiith"
+        }
+    },
+    "Heatace": {
+        "followers": {"spotify": 49500},
+        "links": {
+            "instagram": "https://www.instagram.com/heatace000/",
+            "spotify": "https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR",
+            "bandcamp": "https://heatace.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/heatace"
+        }
+    },
+    "Eden FM": {
+        "followers": {"spotify": 61500},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT",
+            "bandcamp": "https://edenfm.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/edenxfm"
+        }
+    },
+    "Bakground": {
+        "followers": {"spotify": 261900},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3ZKoKSGZu4rDSFXmS6loHK"
+        }
     }
 }
 

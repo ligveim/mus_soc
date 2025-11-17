@@ -722,32 +722,32 @@ const artistsData = [
     },
     {
         name: "TOKYOPILL",
-        followers: {},
-        links: {},
+        followers: {"spotify": 171000},
+        links: {"spotify": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X", "bandcamp": "https://tokyopill.bandcamp.com/", "soundcloud": "https://soundcloud.com/tokyopill", "linktree": "https://linktr.ee/tokyopill"},
         source: "similar"
     },
     {
         name: "BLKSMIITH",
-        followers: {},
-        links: {},
+        followers: {"instagram": 20000, "spotify": 373100},
+        links: {"instagram": "https://www.instagram.com/blksmiith/", "spotify": "https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu", "linktree": "https://linktr.ee/blksmiith"},
         source: "similar"
     },
     {
         name: "Heatace",
-        followers: {},
-        links: {},
+        followers: {"spotify": 49500},
+        links: {"instagram": "https://www.instagram.com/heatace000/", "spotify": "https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR", "bandcamp": "https://heatace.bandcamp.com/", "soundcloud": "https://soundcloud.com/heatace"},
         source: "similar"
     },
     {
         name: "Eden FM",
-        followers: {},
-        links: {},
+        followers: {"spotify": 61500},
+        links: {"spotify": "https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT", "bandcamp": "https://edenfm.bandcamp.com/", "soundcloud": "https://soundcloud.com/edenxfm"},
         source: "similar"
     },
     {
         name: "Bakground",
-        followers: {},
-        links: {},
+        followers: {"spotify": 261900},
+        links: {"spotify": "https://open.spotify.com/artist/3ZKoKSGZu4rDSFXmS6loHK"},
         source: "similar"
     },
     {
