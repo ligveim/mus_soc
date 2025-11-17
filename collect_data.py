@@ -1167,6 +1167,43 @@ collected_data = {
             "bandcamp": "https://vague003.bandcamp.com/",
             "soundcloud": "https://soundcloud.com/vague003"
         }
+    },
+    "Laxcity": {
+        "followers": {"instagram": 12000, "spotify": 102100},
+        "links": {
+            "instagram": "https://www.instagram.com/laxcitymusic/",
+            "spotify": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB",
+            "bandcamp": "https://laxcitymusic.bandcamp.com/"
+        }
+    },
+    "Cult Member": {
+        "followers": {"spotify": 2000000},
+        "links": {
+            "instagram": "https://www.instagram.com/cultmemberband/",
+            "spotify": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        }
+    },
+    "Delroy Edwards": {
+        "followers": {"instagram": 23000, "spotify": 45700},
+        "links": {
+            "instagram": "https://www.instagram.com/delroy.edwards/",
+            "spotify": "https://open.spotify.com/artist/683gIqfxdjjg2sowYxBHIQ",
+            "soundcloud": "https://soundcloud.com/delroy-edwards"
+        }
+    },
+    "Acidgvrl": {
+        "followers": {"instagram": 20000, "spotify": 70200},
+        "links": {
+            "instagram": "https://www.instagram.com/jaakusameyumi/",
+            "spotify": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f",
+            "bandcamp": "https://acidgvrl.bandcamp.com/"
+        }
+    },
+    "Cynthoni": {
+        "followers": {"spotify": 146700},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6"
+        }
     }
 }
 

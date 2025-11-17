@@ -842,32 +842,32 @@ const artistsData = [
     },
     {
         name: "Laxcity",
-        followers: {},
-        links: {},
+        followers: {"instagram": 12000, "spotify": 102100},
+        links: {"instagram": "https://www.instagram.com/laxcitymusic/", "spotify": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB", "bandcamp": "https://laxcitymusic.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Cult Member",
-        followers: {},
-        links: {},
+        followers: {"spotify": 2000000},
+        links: {"instagram": "https://www.instagram.com/cultmemberband/", "spotify": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"},
         source: "similar"
     },
     {
         name: "Delroy Edwards",
-        followers: {},
-        links: {},
+        followers: {"instagram": 23000, "spotify": 45700},
+        links: {"instagram": "https://www.instagram.com/delroy.edwards/", "spotify": "https://open.spotify.com/artist/683gIqfxdjjg2sowYxBHIQ", "soundcloud": "https://soundcloud.com/delroy-edwards"},
         source: "similar"
     },
     {
         name: "Acidgvrl",
-        followers: {},
-        links: {},
+        followers: {"instagram": 20000, "spotify": 70200},
+        links: {"instagram": "https://www.instagram.com/jaakusameyumi/", "spotify": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f", "bandcamp": "https://acidgvrl.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Cynthoni",
-        followers: {},
-        links: {},
+        followers: {"spotify": 146700},
+        links: {"spotify": "https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6"},
         source: "similar"
     },
     {
