@@ -146,6 +146,47 @@ n Institut
     - Curator: Glitch Art Gallery
     - Categories: glitch scholarship, dirty new media, theory
 
+### Music Video Directors
+
+27. **Andrew Thomas Huang** - [need handle] - [need count]
+    - FKA twigs "Cellophane" director
+    - Collaborators: Björk, Sigur Rós, Thom Yorke, Perfume Genius, Kelela
+    - USC Fine Art and Animation
+    - Categories: music videos, animation, fine art
+
+28. **Jesse Kanda** - [likely @jessekanda or website] - [need count]
+    - Arca, FKA twigs, Björk visual collaborator
+    - Japanese-born, Canadian-raised, London-based
+    - Also musician (Doon Kanda)
+    - Categories: 3D design, animation, music videos, body horror
+
+29. **Jordan Hemingway** - [need handle] - [need count]
+    - FKA twigs long-time collaborator
+    - Director/photographer
+    - Directed "Predictable Girl" for FKA twigs
+    - Categories: music video, photography
+
+30. **Frederik Heyman** - [need handle] - [need count]
+    - Arca's Kick series (I-V) visual language creator
+    - Collaboration started 2018
+    - 3D artist
+    - Categories: 3D art, album art, music visuals
+
+### Collected Artists
+
+31. **Tabor Robak** - @taborrobak - 4,710 followers
+    - Collections: MoMA, Whitney, Met, Serpentine, Migros Museum
+    - Forbes 30 under 30 in Art (2014)
+    - Paris-based, American
+    - Categories: new media, video installations, generative art, video games
+
+### Digital Fashion
+
+32. **Anastasia Sternad** - @anastasia_sternad - 1,162 followers
+    - CLO3D | Marvelous Designer specialist
+    - 3D fashion visualization
+    - Categories: digital fashion, 3D design, CLO3D
+
 ---
 
 ## TO FIND / RESEARCH
@@ -185,7 +226,7 @@ n Institut
 ---
 
 ## CURRENT STATUS
-- **Total found**: 26 artists (including starting 5)
-- **Quality tier**: 26 artists with exhibitions/collaborations/credentials
-- **Need more**: 4-10 more to reach 30+
-- **Next focus**: Smaller galleries, more musician video directors, digital fashion
+- **Total found**: 32 artists (including starting 5)
+- **Quality tier**: 32 artists with exhibitions/collaborations/credentials
+- **Categories**: Biennale participants, music video directors, glitch artists, net art pioneers, digital fashion, collected by major museums
+- **Status**: ДОСТАТОЧНО для первой версии! ✓
