@@ -693,31 +693,31 @@ const artistsData = [
     {
         name: "CYBEREALITYライフ",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/5wxQkBn8VmHggkeH94BdYf", "bandcamp": "https://cybereality90.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "desert sand feels warm at night",
-        followers: {},
-        links: {},
+        followers: {"spotify": 50600},
+        links: {"spotify": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P", "bandcamp": "https://desertsand.bandcamp.com/", "twitter": "https://twitter.com/desertsandvapor"},
         source: "similar"
     },
     {
         name: "t e l e p a t h テレパシー能力者",
-        followers: {},
-        links: {},
+        followers: {"spotify": 63400},
+        links: {"spotify": "https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3", "bandcamp": "https://telepathtelepath.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "INTERNET CLUB",
         followers: {},
-        links: {},
+        links: {"bandcamp": "https://internetclub.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "Nedaj",
-        followers: {},
-        links: {},
+        followers: {"instagram": 5830, "spotify": 148500},
+        links: {"instagram": "https://www.instagram.com/notnedaj/", "spotify": "https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU", "bandcamp": "https://notnedaj.bandcamp.com/", "website": "https://www.nedaj.us/"},
         source: "similar"
     },
     {

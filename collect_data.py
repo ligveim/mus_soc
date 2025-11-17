@@ -975,6 +975,43 @@ collected_data = {
         "links": {
             "bandcamp": "https://nightcoverage.bandcamp.com/album/skeleton-remastered"
         }
+    },
+    "CYBEREALITYライフ": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5wxQkBn8VmHggkeH94BdYf",
+            "bandcamp": "https://cybereality90.bandcamp.com/"
+        }
+    },
+    "desert sand feels warm at night": {
+        "followers": {"spotify": 50600},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P",
+            "bandcamp": "https://desertsand.bandcamp.com/",
+            "twitter": "https://twitter.com/desertsandvapor"
+        }
+    },
+    "t e l e p a t h テレパシー能力者": {
+        "followers": {"spotify": 63400},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3",
+            "bandcamp": "https://telepathtelepath.bandcamp.com/"
+        }
+    },
+    "INTERNET CLUB": {
+        "followers": {},
+        "links": {
+            "bandcamp": "https://internetclub.bandcamp.com/"
+        }
+    },
+    "Nedaj": {
+        "followers": {"instagram": 5830, "spotify": 148500},
+        "links": {
+            "instagram": "https://www.instagram.com/notnedaj/",
+            "spotify": "https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU",
+            "bandcamp": "https://notnedaj.bandcamp.com/",
+            "website": "https://www.nedaj.us/"
+        }
     }
 }
 
