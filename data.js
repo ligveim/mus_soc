@@ -1052,32 +1052,32 @@ const artistsData = [
     },
     {
         name: "Bochum Welt",
-        followers: {},
-        links: {},
+        followers: {"instagram": 4219, "spotify": 48400},
+        links: {"instagram": "https://www.instagram.com/bochumwelt/", "spotify": "https://open.spotify.com/artist/0DDFk56QBhetDQ1wwNf8oG", "soundcloud": "https://soundcloud.com/bochum-welt"},
         source: "similar"
     },
     {
         name: "Pizza Hotline",
-        followers: {},
-        links: {},
+        followers: {"instagram": 5779, "spotify": 72500},
+        links: {"instagram": "https://www.instagram.com/pizzahotline_/", "spotify": "https://open.spotify.com/artist/2pgl3x3t8w0jiQ9PxMreRN", "bandcamp": "https://pizzahotline.bandcamp.com/", "linktree": "https://linktr.ee/pizzahotline_"},
         source: "similar"
     },
     {
         name: "Untold Want",
         followers: {},
-        links: {},
+        links: {"bandcamp": "https://untoldwant.bandcamp.com/music"},
         source: "similar"
     },
     {
         name: "DAZEGXD",
-        followers: {},
-        links: {},
+        followers: {"instagram": 22000, "spotify": 209600},
+        links: {"instagram": "https://www.instagram.com/dazegxd/", "spotify": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL", "soundcloud": "https://m.soundcloud.com/dazegxd"},
         source: "similar"
     },
     {
         name: "Zavoloka",
-        followers: {},
-        links: {},
+        followers: {"instagram": 716},
+        links: {"instagram": "https://www.instagram.com/i_zavoloka/", "spotify": "https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp", "bandcamp": "https://zavoloka.bandcamp.com/"},
         source: "similar"
     },
     {

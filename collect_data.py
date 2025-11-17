@@ -1444,6 +1444,45 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/0iDqn417kRnYSjbUAkibvu",
             "bandcamp": "https://thorhighheels.bandcamp.com/album/adolf-nomura"
         }
+    },
+    "Bochum Welt": {
+        "followers": {"instagram": 4219, "spotify": 48400},
+        "links": {
+            "instagram": "https://www.instagram.com/bochumwelt/",
+            "spotify": "https://open.spotify.com/artist/0DDFk56QBhetDQ1wwNf8oG",
+            "soundcloud": "https://soundcloud.com/bochum-welt"
+        }
+    },
+    "Pizza Hotline": {
+        "followers": {"instagram": 5779, "spotify": 72500},
+        "links": {
+            "instagram": "https://www.instagram.com/pizzahotline_/",
+            "spotify": "https://open.spotify.com/artist/2pgl3x3t8w0jiQ9PxMreRN",
+            "bandcamp": "https://pizzahotline.bandcamp.com/",
+            "linktree": "https://linktr.ee/pizzahotline_"
+        }
+    },
+    "Untold Want": {
+        "followers": {},
+        "links": {
+            "bandcamp": "https://untoldwant.bandcamp.com/music"
+        }
+    },
+    "DAZEGXD": {
+        "followers": {"instagram": 22000, "spotify": 209600},
+        "links": {
+            "instagram": "https://www.instagram.com/dazegxd/",
+            "spotify": "https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL",
+            "soundcloud": "https://m.soundcloud.com/dazegxd"
+        }
+    },
+    "Zavoloka": {
+        "followers": {"instagram": 716},
+        "links": {
+            "instagram": "https://www.instagram.com/i_zavoloka/",
+            "spotify": "https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp",
+            "bandcamp": "https://zavoloka.bandcamp.com/"
+        }
     }
 }
 
