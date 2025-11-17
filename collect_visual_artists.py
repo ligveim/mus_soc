@@ -3,8 +3,8 @@
 
 """
 Visual Artists Data Collection
-Collecting niche visual artists, photographers, fashion creators, and AI artists
-Target: under 20K followers, unique style, AI-focused when possible
+Niche visual artists with exhibitions, musician collaborations, biennale participation
+Quality > Generic AI prompters
 """
 
 import json
@@ -18,32 +18,44 @@ starting_artists = [
     "loved_orleer"
 ]
 
-# Similar artists found through research
+# Quality artists - exhibitions/collaborations/credentials
 similar_artists = [
-    # AI Artists - Very Niche (under 2K)
-    "machatter_ai",
-    "dribnet",
-    "ai.rdeck",
-    "cybercollectorx",
-    "midjourney.man",
-    "divinecassai",
-    "ross.good.win",
+    # Biennale / Major exhibitions
+    "crosslucid",
+    "sahejrahal",
+    "zheng__mahler",
+    "newgenderwhodis",  # Bhenji Ra
+    "yehwan.yen.song",
+    "luh2203",  # Lucile Olympe Haute
+    "lou_cantor",
+    "moritz.jekat",
+    "irina.spicaka",
 
-    # AI Artists - Niche (2K-20K)
-    "robomar.ai.art",
-    "oziiiai",
-    "the.ai.art.magazine",
+    # Fellowship.xyz / Curated platforms
+    "panaviscope",
 
-    # To be researched further
-    # 3D/Blender artists
-    # Cyberpunk photographers
-    # Fashion/AI fusion
-    # Glitch art
-    # Post-internet art
+    # Net art / Rhizome
+    "petra_cortright",
+
+    # Music collaborators
+    "naetboyce",  # Nate Boyce - OPN
+    "claire_barrow",  # Bladee/Drain Gang
+
+    # Glitch art pioneers
+    "letsglitchit",  # Dawnia Darkstone
+    "empress_trash",
+    "_menkman",  # Rosa Menkman
+
+    # Museum-collected
+    "taborrobak",  # Tabor Robak - MoMA, Whitney, Met
+
+    # Digital fashion
+    "anastasia_sternad",
 ]
 
 # Collected data
 collected_data = {
+    # Starting artists
     "plastekpet": {
         "followers": {"instagram": 57000},
         "links": {
@@ -59,76 +71,168 @@ collected_data = {
         },
         "categories": ["visual art", "digital"]
     },
-    "robomar.ai.art": {
-        "followers": {"instagram": 14000},
-        "links": {
-            "instagram": "https://www.instagram.com/robomar.ai.art/"
-        },
-        "categories": ["AI art", "visual curator"]
-    },
-    "oziiiai": {
-        "followers": {"instagram": 19000},
-        "links": {
-            "instagram": "https://www.instagram.com/oziiiai/"
-        },
-        "categories": ["AI art", "imaginative visuals"]
-    },
-    "the.ai.art.magazine": {
+
+    # Biennale participants
+    "crosslucid": {
         "followers": {"instagram": 11000},
         "links": {
-            "instagram": "https://www.instagram.com/the.ai.art.magazine/"
+            "instagram": "https://www.instagram.com/crosslucid/",
+            "website": "https://crosslucid.com"
         },
-        "categories": ["AI art", "magazine"]
+        "categories": ["AI art", "collective", "queer futures", "Wrong Biennale"]
     },
-    "machatter_ai": {
-        "followers": {"instagram": 1100},
+    "sahejrahal": {
+        "followers": {"instagram": 7112},
         "links": {
-            "instagram": "https://www.instagram.com/machatter_ai/"
+            "instagram": "https://www.instagram.com/sahejrahal/",
+            "website": "https://www.sahejrahal.com"
         },
-        "categories": ["AI art", "Midjourney", "Stable Diffusion"]
+        "categories": ["mythology", "AI simulation", "Liverpool Biennial"]
     },
-    "dribnet": {
-        "followers": {"instagram": 949},
+    "zheng__mahler": {
+        "followers": {"instagram": 0},  # need count
         "links": {
-            "instagram": "https://www.instagram.com/dribnet/"
+            "instagram": "https://www.instagram.com/zheng__mahler/",
+            "website": "https://www.zhengmahler.world"
         },
-        "categories": ["machine perception", "AI art"]
+        "categories": ["more-than-human", "Helsinki Biennial", "Shanghai Biennial"]
     },
-    "ai.rdeck": {
-        "followers": {"instagram": 536},
+    "newgenderwhodis": {
+        "followers": {"instagram": 26000},
         "links": {
-            "instagram": "https://www.instagram.com/ai.rdeck/"
+            "instagram": "https://www.instagram.com/newgenderwhodis/"
         },
-        "categories": ["AI art", "generative images", "DALL-E", "Midjourney"]
+        "categories": ["trans narratives", "performance", "Sydney Biennial", "transmediale"]
     },
-    "cybercollectorx": {
-        "followers": {"instagram": 176},
+    "yehwan.yen.song": {
+        "followers": {"instagram": 39000},
         "links": {
-            "instagram": "https://www.instagram.com/cybercollectorx/"
+            "instagram": "https://www.instagram.com/yehwan.yen.song/",
+            "website": "https://yhsong.com"
         },
-        "categories": ["visual experiences", "AI art"]
+        "categories": ["web art", "anti-friendly design", "Helsinki Biennial"]
     },
-    "midjourney.man": {
-        "followers": {"instagram": 33},
+    "luh2203": {
+        "followers": {"instagram": 0},  # need count
         "links": {
-            "instagram": "https://www.instagram.com/midjourney.man/"
+            "instagram": "https://www.instagram.com/luh2203/",
+            "website": "https://lucilehaute.fr"
         },
-        "categories": ["AI art", "Midjourney"]
+        "categories": ["Cyberwitches Manifesto", "spirituality", "technology"]
     },
-    "divinecassai": {
-        "followers": {"instagram": 950},
+    "lou_cantor": {
+        "followers": {"instagram": 0},  # need count
         "links": {
-            "instagram": "https://www.instagram.com/divinecassai/"
+            "instagram": "https://www.instagram.com/lou_cantor/",
+            "website": "https://www.loucantor.com"
         },
-        "categories": ["AI art", "NightCafe Studio"]
+        "categories": ["collective", "AI liberation", "Berlin Biennal"]
     },
-    "ross.good.win": {
-        "followers": {"instagram": 1900},
+    "moritz.jekat": {
+        "followers": {"instagram": 1321},
         "links": {
-            "instagram": "https://www.instagram.com/ross.good.win/"
+            "instagram": "https://www.instagram.com/moritz.jekat/",
+            "website": "https://moritzjekat.de"
         },
-        "categories": ["data poet", "AI art"]
-    }
+        "categories": ["CGI", "sculpture", "installation"]
+    },
+    "irina.spicaka": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/irina.spicaka/",
+            "website": "https://spicaka.info"
+        },
+        "categories": ["audiovisual", "interactive", "transmediale"]
+    },
+
+    # Fellowship.xyz curated
+    "panaviscope": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/panaviscope/",
+            "website": "https://daily.xyz/artist/panaviscope"
+        },
+        "categories": ["AI video", "Sora", "music", "fellowship.xyz"]
+    },
+    "0nastiia": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/0nastiia/",
+            "website": "https://fellowship.xyz/artist/0nastiia"
+        },
+        "categories": ["photographer", "fellowship.xyz"]
+    },
+
+    # Net art
+    "petra_cortright": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/petra_cortright/",
+            "website": "https://www.petracortright.com"
+        },
+        "categories": ["net art", "Rhizome", "Post-Internet"]
+    },
+
+    # Music collaborators
+    "naetboyce": {
+        "followers": {"instagram": 12000},
+        "links": {
+            "instagram": "https://www.instagram.com/naetboyce/"
+        },
+        "categories": ["OPN collaborator", "moving image", "MoMA"]
+    },
+    "claire_barrow": {
+        "followers": {"instagram": 71000},
+        "links": {
+            "instagram": "https://www.instagram.com/claire_barrow/",
+            "website": "https://clairebarrow.com"
+        },
+        "categories": ["Bladee", "Drain Gang", "painting", "fashion"]
+    },
+
+    # Glitch art
+    "letsglitchit": {
+        "followers": {"instagram": 2300},
+        "links": {
+            "instagram": "https://www.instagram.com/letsglitchit/",
+            "website": "https://letsglitchit.art"
+        },
+        "categories": ["glitch art", "circuit bending", "Sotheby's", "Christie's"]
+    },
+    "empress_trash": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/empress_trash/",
+            "website": "https://empresstrash.com"
+        },
+        "categories": ["glitch aesthetics", "AI art", "Miami Art Basel"]
+    },
+    "_menkman": {
+        "followers": {"instagram": 8347},
+        "links": {
+            "instagram": "https://www.instagram.com/_menkman/"
+        },
+        "categories": ["glitch theory", "Glitch Studies Manifesto", "media archaeology"]
+    },
+
+    # Museum-collected
+    "taborrobak": {
+        "followers": {"instagram": 4710},
+        "links": {
+            "instagram": "https://www.instagram.com/taborrobak/",
+            "website": "https://www.taborrobak.com"
+        },
+        "categories": ["new media", "MoMA", "Whitney", "Met"]
+    },
+
+    # Digital fashion
+    "anastasia_sternad": {
+        "followers": {"instagram": 1162},
+        "links": {
+            "instagram": "https://www.instagram.com/anastasia_sternad/"
+        },
+        "categories": ["digital fashion", "CLO3D", "3D design"]
+    },
 }
 
 def generate_js_data():

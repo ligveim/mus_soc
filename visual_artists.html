@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Niche Visual Artists Discovery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+            color: #fff;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            color: #a0a0a0;
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+
+        .description {
+            color: #8a8a8a;
+            font-size: 0.9rem;
+            margin-top: 15px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .controls {
+            display: flex;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 300px;
+            max-width: 500px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1rem;
+            border: 2px solid #444;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            color: #fff;
+            outline: none;
+            transition: all 0.3s;
+        }
+
+        .search-box input:focus {
+            border-color: #f093fb;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .sort-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .sort-btn {
+            padding: 15px 25px;
+            font-size: 0.9rem;
+            border: none;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+
+        .sort-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .sort-btn.active {
+            background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .artists-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .artist-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s;
+        }
+
+        .artist-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .artist-name {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #f093fb;
+            word-break: break-word;
+        }
+
+        .artist-followers {
+            font-size: 0.95rem;
+            color: #aaa;
+            margin-bottom: 15px;
+        }
+
+        .artist-followers .platform {
+            margin-right: 15px;
+        }
+
+        .artist-followers .count {
+            color: #f5576c;
+            font-weight: 500;
+        }
+
+        .artist-categories {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+
+        .category-tag {
+            padding: 5px 12px;
+            background: rgba(240, 147, 251, 0.2);
+            border-radius: 20px;
+            font-size: 0.8rem;
+            color: #f093fb;
+            border: 1px solid rgba(240, 147, 251, 0.3);
+        }
+
+        .artist-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .social-link {
+            padding: 8px 16px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            text-decoration: none;
+            color: #fff;
+            font-size: 0.85rem;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+
+        .social-link:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .social-link.instagram {
+            background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+        }
+
+        .social-link.website {
+            background: rgba(100, 100, 255, 0.3);
+            border-color: rgba(100, 100, 255, 0.5);
+        }
+
+        .social-link.twitter {
+            background: rgba(29, 161, 242, 0.3);
+            border-color: rgba(29, 161, 242, 0.5);
+        }
+
+        .stats {
+            text-align: center;
+            margin: 40px 0 20px;
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .search-box {
+                min-width: 100%;
+            }
+
+            .artists-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>✦ Niche Visual Artists</h1>
+            <p class="subtitle">Biennale participants • Music collaborators • Glitch pioneers • Museum-collected</p>
+            <p class="description">
+                Curated collection of quality artists with exhibitions, musician collaborations, and platform presence.
+                No generic AI prompters - only conceptual work.
+            </p>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search by name or category...">
+            </div>
+            <div class="sort-buttons">
+                <button class="sort-btn" id="sortName">Sort by Name</button>
+                <button class="sort-btn active" id="sortFollowersAsc">Least Followers First</button>
+                <button class="sort-btn" id="sortFollowersDesc">Most Followers First</button>
+            </div>
+        </div>
+
+        <div id="stats" class="stats"></div>
+
+        <div id="artistsGrid" class="artists-grid"></div>
+    </div>
+
+    <script src="visual_artists_data.js"></script>
+    <script src="visual_artists_app.js"></script>
+</body>
+</html>
