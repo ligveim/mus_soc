@@ -92,6 +92,8 @@ similar_artists = [
     "schwittlick",  # Marcel Schwittlick - 2,735 followers - plotter art, algorithms, Berlin
     "lovidlovid",  # LoVid (Tali Hinkis + Kyle Lapidus) - 6,717 followers - Rhizome, Art Blocks
     "annacarreras.art",  # Anna Carreras - 631 followers - ULTRA NICHE! Cannes Golden Lion, Barcelona
+    "ognyveli",  # Iskra Velitchkova - 3,972 followers - Bulgarian, Forbes, BBVA awards, Madrid
+    "aaron_penne",  # Aaron Penne - 11K followers - Lumen Prize, Art Blocks Director
 ]
 
 # Collected data
@@ -491,6 +493,22 @@ collected_data = {
             "website": "https://www.annacarreras.com"
         },
         "categories": ["generative art", "creative coding", "Cannes Golden Lion 2010", "Google DevArt Award", "Barcelona", "interactive", "PhD researcher"]
+    },
+    "ognyveli": {
+        "followers": {"instagram": 3972},
+        "links": {
+            "instagram": "https://www.instagram.com/ognyveli/",
+            "website": "https://iskraovelitchkova.com"
+        },
+        "categories": ["generative art", "Bulgarian artist", "Forbes featured", "BBVA Innova awards", "Madrid-based", "Art Blocks", "mixed media"]
+    },
+    "aaron_penne": {
+        "followers": {"instagram": 11000},
+        "links": {
+            "instagram": "https://www.instagram.com/aaron_penne/",
+            "website": "https://www.aaronpenne.io"
+        },
+        "categories": ["generative art", "creative coding", "Lumen Prize 2022", "Art Blocks Director", "Seattle", "engineer + artist"]
     },
 }
 

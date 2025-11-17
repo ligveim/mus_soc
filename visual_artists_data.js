@@ -350,4 +350,18 @@ const visualArtistsData = [
         categories: ["generative art", "creative coding", "Cannes Golden Lion 2010", "Google DevArt Award", "Barcelona", "interactive", "PhD researcher"],
         source: "similar"
     },
+    {
+        name: "ognyveli",
+        followers: {"instagram": 3972},
+        links: {"instagram": "https://www.instagram.com/ognyveli/", "website": "https://iskraovelitchkova.com"},
+        categories: ["generative art", "Bulgarian artist", "Forbes featured", "BBVA Innova awards", "Madrid-based", "Art Blocks", "mixed media"],
+        source: "similar"
+    },
+    {
+        name: "aaron_penne",
+        followers: {"instagram": 11000},
+        links: {"instagram": "https://www.instagram.com/aaron_penne/", "website": "https://www.aaronpenne.io"},
+        categories: ["generative art", "creative coding", "Lumen Prize 2022", "Art Blocks Director", "Seattle", "engineer + artist"],
+        source: "similar"
+    },
 ];
