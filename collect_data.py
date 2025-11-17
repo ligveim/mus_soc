@@ -1089,6 +1089,46 @@ collected_data = {
             "spotify": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ",
             "bandcamp": "https://beatsupply.bandcamp.com/album/growing-up-vol-2"
         }
+    },
+    "tomcbumpz": {
+        "followers": {"instagram": 18000, "spotify": 53200},
+        "links": {
+            "instagram": "https://www.instagram.com/tomcbumpz/",
+            "spotify": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy",
+            "bandcamp": "https://tomcbumpz.bandcamp.com/"
+        }
+    },
+    "weird inside": {
+        "followers": {"spotify": 44500},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl",
+            "soundcloud": "https://soundcloud.com/weirdinside",
+            "bandcamp": "https://weirdinside.bandcamp.com/",
+            "website": "https://weirdinsi.de/"
+        }
+    },
+    "Ajmw": {
+        "followers": {"instagram": 3577, "spotify": 462500},
+        "links": {
+            "instagram": "https://www.instagram.com/ajmwbeats/",
+            "spotify": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+    },
+    "Harris Cole": {
+        "followers": {"instagram": 14000, "spotify": 1395800},
+        "links": {
+            "instagram": "https://www.instagram.com/harriscole/",
+            "spotify": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+    },
+    "fujitive": {
+        "followers": {"instagram": 5344, "spotify": 174300},
+        "links": {
+            "instagram": "https://www.instagram.com/fuji_beats/",
+            "spotify": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d",
+            "bandcamp": "https://mtfujitive.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/mt_fujitive"
+        }
     }
 }
 

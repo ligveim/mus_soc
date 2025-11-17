@@ -782,32 +782,32 @@ const artistsData = [
     },
     {
         name: "tomcbumpz",
-        followers: {},
-        links: {},
+        followers: {"instagram": 18000, "spotify": 53200},
+        links: {"instagram": "https://www.instagram.com/tomcbumpz/", "spotify": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy", "bandcamp": "https://tomcbumpz.bandcamp.com/"},
         source: "similar"
     },
     {
         name: "weird inside",
-        followers: {},
-        links: {},
+        followers: {"spotify": 44500},
+        links: {"spotify": "https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl", "soundcloud": "https://soundcloud.com/weirdinside", "bandcamp": "https://weirdinside.bandcamp.com/", "website": "https://weirdinsi.de/"},
         source: "similar"
     },
     {
         name: "Ajmw",
-        followers: {},
-        links: {},
+        followers: {"instagram": 3577, "spotify": 462500},
+        links: {"instagram": "https://www.instagram.com/ajmwbeats/", "spotify": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"},
         source: "similar"
     },
     {
         name: "Harris Cole",
-        followers: {},
-        links: {},
+        followers: {"instagram": 14000, "spotify": 1395800},
+        links: {"instagram": "https://www.instagram.com/harriscole/", "spotify": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"},
         source: "similar"
     },
     {
         name: "fujitive",
-        followers: {},
-        links: {},
+        followers: {"instagram": 5344, "spotify": 174300},
+        links: {"instagram": "https://www.instagram.com/fuji_beats/", "spotify": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d", "bandcamp": "https://mtfujitive.bandcamp.com/", "soundcloud": "https://soundcloud.com/mt_fujitive"},
         source: "similar"
     },
     {
