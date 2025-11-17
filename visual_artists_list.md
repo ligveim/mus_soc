@@ -225,8 +225,78 @@ n Institut
 
 ---
 
+### Fashion/Surrealism/Conceptual (NEW - QUALITY TIER)
+
+33. **Charlie Engman** - @charlieengman - [need count]
+    - Fashion photographer with surrealist approach
+    - "My Mother" series - maternal muse
+    - Ephemeral, angular, vivid colours
+    - Dazed 100, i-D, Vogue
+    - Categories: fashion photography, surrealism, maternal imagery
+
+34. **bagdelete (noper)** - @bagdelete - 80K followers *(over limit but USER REQUESTED)*
+    - "artificial explorer"
+    - Conceptual AI work
+    - Website: noper.xyz, rarefishmarket.art
+    - Categories: AI art, conceptual, digital exploration
+
+35. **Rhea Dillon** - @rheadillon - 16K followers
+    - Interdisciplinary: film, photography, sculpture, performance
+    - Queer thought, feminist theory, Black expressionism
+    - Sotheby's featured
+    - Categories: interdisciplinary, queer, visceral sculptures, post-colonial
+
+36. **Dozie Kanu** - @dozie.kanu - [need count]
+    - Found objects, sculpture, photography
+    - Studio Museum Harlem (2019)
+    - Nigerian-American, Santarém Portugal-based
+    - Categories: sculpture, found objects, furniture/art hybrid
+
+37. **Frank Dorrey** - @frankdorrey - 35K followers *(over limit but EXCEPTIONAL)*
+    - Surrealist digital collages on iPhone (PicsArt)
+    - Black community, joy, intimacy
+    - Steve Lacy, Amine, Mykki Blanco collaborations
+    - Categories: digital collage, surrealism, Black narratives
+
+38. **Misha Meghna** - @mishameghna - 12K followers
+    - Fashion/beauty photographer
+    - Dream-inducing colorscapes, cosmic-inspired
+    - Hypebae featured alongside Petra Collins
+    - Categories: fashion photography, cosmic aesthetics, color
+
+39. **Ottilie Landmark** - @ottilielandmark - 9K+ followers
+    - Queer female identity and sexuality
+    - CSM graduate, Hugo Boss Scholarship
+    - i-D, SHOWstudio
+    - Categories: queer photography, fashion, identity
+
+### Frieze/Art Basel Featured
+
+40. **Eva Gold** - @evagold.jpg - [need count]
+    - Sculpture, drawing, moving image, cinematic
+    - Frieze London 2024 emerging artist
+    - Rose Easton gallery
+    - Gay Times, Elephant, Ocula features
+    - Categories: sculpture, moving image, queer, cinematic
+
+41. **Benedikte Bjerre** - @benediktebjerre - 172 followers *(ULTRA NICHE!)*
+    - Sociological phenomena, sculpture, installation
+    - Frieze London 2024 - "The Birds" penguin balloons
+    - Consumerism, climate collapse themes
+    - palace enterprise gallery (Copenhagen)
+    - Categories: sculpture, installation, climate, conceptual
+
+42. **Lu Yang** - @luyangasia - 30K followers *(over limit but MAJOR)*
+    - Animated film, DOKU series
+    - Frieze Seoul 2024 Focus Asia Prize
+    - Deutsche Bank Artist of the Year 2022
+    - Fondation Louis Vuitton
+    - Categories: animation, video art, digital, existential
+
+---
+
 ## CURRENT STATUS
-- **Total found**: 32 artists (including starting 5)
-- **Quality tier**: 32 artists with exhibitions/collaborations/credentials
-- **Categories**: Biennale participants, music video directors, glitch artists, net art pioneers, digital fashion, collected by major museums
-- **Status**: ДОСТАТОЧНО для первой версии! ✓
+- **Total found**: 42 artists (including starting 5)
+- **Quality tier**: 42 artists - MUCH BETTER NOW!
+- **Categories**: Fashion/surrealism, Frieze/Art Basel, music video directors, glitch pioneers, biennale, museum-collected
+- **Status**: УЛУЧШЕНО! Намного более талантливые художники ✓

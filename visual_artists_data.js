@@ -161,4 +161,74 @@ const visualArtistsData = [
         categories: ["digital fashion", "CLO3D", "3D design"],
         source: "similar"
     },
+    {
+        name: "charlieengman",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/charlieengman/"},
+        categories: ["fashion photography", "surrealism", "maternal imagery", "Dazed 100"],
+        source: "similar"
+    },
+    {
+        name: "bagdelete",
+        followers: {"instagram": 80000},
+        links: {"instagram": "https://www.instagram.com/bagdelete/", "website": "https://noper.xyz"},
+        categories: ["AI art", "conceptual", "artificial explorer"],
+        source: "similar"
+    },
+    {
+        name: "rheadillon",
+        followers: {"instagram": 16000},
+        links: {"instagram": "https://www.instagram.com/rheadillon/"},
+        categories: ["interdisciplinary", "queer", "visceral sculptures", "Black expressionism", "Sotheby's"],
+        source: "similar"
+    },
+    {
+        name: "dozie.kanu",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/dozie.kanu/"},
+        categories: ["sculpture", "found objects", "Studio Museum Harlem"],
+        source: "similar"
+    },
+    {
+        name: "frankdorrey",
+        followers: {"instagram": 35000},
+        links: {"instagram": "https://www.instagram.com/frankdorrey/"},
+        categories: ["digital collage", "surrealism", "Black narratives", "Steve Lacy collab"],
+        source: "similar"
+    },
+    {
+        name: "mishameghna",
+        followers: {"instagram": 12000},
+        links: {"instagram": "https://www.instagram.com/mishameghna/"},
+        categories: ["fashion photography", "cosmic aesthetics", "color", "Hypebae"],
+        source: "similar"
+    },
+    {
+        name: "ottilielandmark",
+        followers: {"instagram": 9000},
+        links: {"instagram": "https://www.instagram.com/ottilielandmark/"},
+        categories: ["queer photography", "fashion", "identity", "CSM graduate"],
+        source: "similar"
+    },
+    {
+        name: "evagold.jpg",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/evagold.jpg/"},
+        categories: ["sculpture", "moving image", "queer", "cinematic", "Frieze London 2024"],
+        source: "similar"
+    },
+    {
+        name: "benediktebjerre",
+        followers: {"instagram": 172},
+        links: {"instagram": "https://www.instagram.com/benediktebjerre/"},
+        categories: ["sculpture", "installation", "climate collapse", "Frieze London 2024"],
+        source: "similar"
+    },
+    {
+        name: "luyangasia",
+        followers: {"instagram": 30000},
+        links: {"instagram": "https://www.instagram.com/luyangasia/"},
+        categories: ["animation", "video art", "digital", "Frieze Seoul 2024", "Deutsche Bank Artist of Year"],
+        source: "similar"
+    },
 ];

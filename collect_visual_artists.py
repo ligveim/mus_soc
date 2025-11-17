@@ -51,6 +51,20 @@ similar_artists = [
 
     # Digital fashion
     "anastasia_sternad",
+
+    # Fashion/Surrealism/Conceptual (NEW - QUALITY TIER)
+    "charlieengman",  # Charlie Engman
+    "bagdelete",  # noper
+    "rheadillon",  # Rhea Dillon
+    "dozie.kanu",  # Dozie Kanu
+    "frankdorrey",  # Frank Dorrey
+    "mishameghna",  # Misha Meghna
+    "ottilielandmark",  # Ottilie Landmark
+
+    # Frieze/Art Basel Featured
+    "evagold.jpg",  # Eva Gold
+    "benediktebjerre",  # Benedikte Bjerre - ULTRA NICHE (172 followers!)
+    "luyangasia",  # Lu Yang
 ]
 
 # Collected data
@@ -233,6 +247,81 @@ collected_data = {
         },
         "categories": ["digital fashion", "CLO3D", "3D design"]
     },
+
+    # Fashion/Surrealism/Conceptual (NEW - QUALITY TIER)
+    "charlieengman": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/charlieengman/"
+        },
+        "categories": ["fashion photography", "surrealism", "maternal imagery", "Dazed 100"]
+    },
+    "bagdelete": {
+        "followers": {"instagram": 80000},
+        "links": {
+            "instagram": "https://www.instagram.com/bagdelete/",
+            "website": "https://noper.xyz"
+        },
+        "categories": ["AI art", "conceptual", "artificial explorer"]
+    },
+    "rheadillon": {
+        "followers": {"instagram": 16000},
+        "links": {
+            "instagram": "https://www.instagram.com/rheadillon/"
+        },
+        "categories": ["interdisciplinary", "queer", "visceral sculptures", "Black expressionism", "Sotheby's"]
+    },
+    "dozie.kanu": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/dozie.kanu/"
+        },
+        "categories": ["sculpture", "found objects", "Studio Museum Harlem"]
+    },
+    "frankdorrey": {
+        "followers": {"instagram": 35000},
+        "links": {
+            "instagram": "https://www.instagram.com/frankdorrey/"
+        },
+        "categories": ["digital collage", "surrealism", "Black narratives", "Steve Lacy collab"]
+    },
+    "mishameghna": {
+        "followers": {"instagram": 12000},
+        "links": {
+            "instagram": "https://www.instagram.com/mishameghna/"
+        },
+        "categories": ["fashion photography", "cosmic aesthetics", "color", "Hypebae"]
+    },
+    "ottilielandmark": {
+        "followers": {"instagram": 9000},
+        "links": {
+            "instagram": "https://www.instagram.com/ottilielandmark/"
+        },
+        "categories": ["queer photography", "fashion", "identity", "CSM graduate"]
+    },
+
+    # Frieze/Art Basel Featured
+    "evagold.jpg": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/evagold.jpg/"
+        },
+        "categories": ["sculpture", "moving image", "queer", "cinematic", "Frieze London 2024"]
+    },
+    "benediktebjerre": {
+        "followers": {"instagram": 172},
+        "links": {
+            "instagram": "https://www.instagram.com/benediktebjerre/"
+        },
+        "categories": ["sculpture", "installation", "climate collapse", "Frieze London 2024"]
+    },
+    "luyangasia": {
+        "followers": {"instagram": 30000},
+        "links": {
+            "instagram": "https://www.instagram.com/luyangasia/"
+        },
+        "categories": ["animation", "video art", "digital", "Frieze Seoul 2024", "Deutsche Bank Artist of Year"]
+    },
 }
 
 def generate_js_data():
@@ -276,10 +365,10 @@ if __name__ == "__main__":
     # Generate JavaScript file
     js_data = generate_js_data()
 
-    with open("visual_artists_data_generated.js", "w", encoding="utf-8") as f:
+    with open("visual_artists_data.js", "w", encoding="utf-8") as f:
         f.write(js_data)
 
-    print(f"✓ Created visual_artists_data_generated.js")
+    print(f"✓ Created visual_artists_data.js")
     print(f"✓ Total artists: {len(starting_artists) + len(similar_artists)}")
     print(f"  - Starting: {len(starting_artists)}")
     print(f"  - Similar: {len(similar_artists)}")
