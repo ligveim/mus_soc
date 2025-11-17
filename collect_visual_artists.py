@@ -82,6 +82,10 @@ similar_artists = [
     "elegantcollisions",  # Romi Ron Morrison - Black computational thought
     "charstiles",  # Char Stiles - MIT Media Lab, live coding
     "davidquilesguillo",  # David Quiles Guilló - Wrong Biennale founder
+
+    # Expanded.art roster (niche, strong style)
+    "peterburr",  # Peter Burr - 6,565 followers - Whitney, MoMA, Guggenheim
+    "aurecevettier",  # aurèce vettier - Vera Molnár collaborator, Lyon museum
 ]
 
 # Collected data
@@ -415,6 +419,24 @@ collected_data = {
             "instagram": "https://www.instagram.com/davidquilesguillo/"
         },
         "categories": ["curator", "Wrong Biennale founder", "digital art curator", "Spain-based", "independent"]
+    },
+
+    # Expanded.art roster (niche, strong style)
+    "peterburr": {
+        "followers": {"instagram": 6565},
+        "links": {
+            "instagram": "https://www.instagram.com/peterburr/",
+            "website": "https://peterburr.org"
+        },
+        "categories": ["generative art", "video game aesthetics", "Whitney Museum", "MoMA", "Guggenheim Fellowship", "Brooklyn"]
+    },
+    "aurecevettier": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/aurecevettier/",
+            "website": "https://www.aurecevettier.com"
+        },
+        "categories": ["generative art", "AI art", "Vera Molnár collaborator", "French artist", "bronze sculpture", "tapestry", "oil painting"]
     },
 }
 

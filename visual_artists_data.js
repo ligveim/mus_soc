@@ -294,4 +294,18 @@ const visualArtistsData = [
         categories: ["curator", "Wrong Biennale founder", "digital art curator", "Spain-based", "independent"],
         source: "similar"
     },
+    {
+        name: "peterburr",
+        followers: {"instagram": 6565},
+        links: {"instagram": "https://www.instagram.com/peterburr/", "website": "https://peterburr.org"},
+        categories: ["generative art", "video game aesthetics", "Whitney Museum", "MoMA", "Guggenheim Fellowship", "Brooklyn"],
+        source: "similar"
+    },
+    {
+        name: "aurecevettier",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/aurecevettier/", "website": "https://www.aurecevettier.com"},
+        categories: ["generative art", "AI art", "Vera Moln\u00e1r collaborator", "French artist", "bronze sculpture", "tapestry", "oil painting"],
+        source: "similar"
+    },
 ];
