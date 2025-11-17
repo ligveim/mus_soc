@@ -1307,6 +1307,37 @@ collected_data = {
             "bandcamp": "https://golin.bandcamp.com/",
             "soundcloud": "https://soundcloud.com/5_lin"
         }
+    },
+    "회사AUTO": {
+        "followers": {"spotify": 14200},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3rWJqI55ysYgFzbR5ZhX5s"
+        }
+    },
+    "Balents": {
+        "followers": {"spotify": 10200},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/049hvNvkQeWrR7FoUQ54rd"
+        }
+    },
+    "Donor Lens": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA",
+            "linktree": "https://linktr.ee/donorlens"
+        }
+    },
+    "architecture in tokyo": {
+        "followers": {"spotify": 105700},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ"
+        }
+    },
+    "Wolfenstein OS X": {
+        "followers": {"spotify": 1700},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7jI7lZJvxKp2bd6wNctYYy"
+        }
     }
 }
 

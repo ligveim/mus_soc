@@ -932,32 +932,32 @@ const artistsData = [
     },
     {
         name: "회사AUTO",
-        followers: {},
-        links: {},
+        followers: {"spotify": 14200},
+        links: {"spotify": "https://open.spotify.com/artist/3rWJqI55ysYgFzbR5ZhX5s"},
         source: "similar"
     },
     {
         name: "Balents",
-        followers: {},
-        links: {},
+        followers: {"spotify": 10200},
+        links: {"spotify": "https://open.spotify.com/artist/049hvNvkQeWrR7FoUQ54rd"},
         source: "similar"
     },
     {
         name: "Donor Lens",
         followers: {},
-        links: {},
+        links: {"spotify": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA", "linktree": "https://linktr.ee/donorlens"},
         source: "similar"
     },
     {
         name: "architecture in tokyo",
-        followers: {},
-        links: {},
+        followers: {"spotify": 105700},
+        links: {"spotify": "https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ"},
         source: "similar"
     },
     {
         name: "Wolfenstein OS X",
-        followers: {},
-        links: {},
+        followers: {"spotify": 1700},
+        links: {"spotify": "https://open.spotify.com/artist/7jI7lZJvxKp2bd6wNctYYy"},
         source: "similar"
     },
     {
