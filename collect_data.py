@@ -1277,6 +1277,36 @@ collected_data = {
         "links": {
             "spotify": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
         }
+    },
+    "猫 シ Corp.": {
+        "followers": {"instagram": 10000, "spotify": 209900},
+        "links": {
+            "instagram": "https://www.instagram.com/catsystemcorp/",
+            "spotify": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE",
+            "bandcamp": "https://catsystemcorp.bandcamp.com/"
+        }
+    },
+    "bl00dwave": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
+        }
+    },
+    "Mister Lies": {
+        "followers": {},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1swlQMBQ8N9ltxjwgAx9Da",
+            "bandcamp": "https://misterlies.bandcamp.com/"
+        }
+    },
+    "Golin": {
+        "followers": {"instagram": 9363},
+        "links": {
+            "instagram": "https://www.instagram.com/ringo_noko/",
+            "spotify": "https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS",
+            "bandcamp": "https://golin.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/5_lin"
+        }
     }
 }
 
