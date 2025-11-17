@@ -90,6 +90,8 @@ similar_artists = [
     "wonderkatzi",  # Sasha Katz - 16K followers - Sotheby's, Burberry, Gucci
     "0xstc",  # Agoston Nagy - 465 followers - ULTRA NICHE! MIT, ZKM, Mutek
     "schwittlick",  # Marcel Schwittlick - 2,735 followers - plotter art, algorithms, Berlin
+    "lovidlovid",  # LoVid (Tali Hinkis + Kyle Lapidus) - 6,717 followers - Rhizome, Art Blocks
+    "annacarreras.art",  # Anna Carreras - 631 followers - ULTRA NICHE! Cannes Golden Lion, Barcelona
 ]
 
 # Collected data
@@ -473,6 +475,22 @@ collected_data = {
             "website": "https://schwittlick.net"
         },
         "categories": ["plotter art", "algorithmic art", "drawing machines", "Berlin-based", "computer science + art", "generative"]
+    },
+    "lovidlovid": {
+        "followers": {"instagram": 6717},
+        "links": {
+            "instagram": "https://www.instagram.com/lovidlovid/",
+            "website": "https://www.lovid.org"
+        },
+        "categories": ["artist duo", "Tali Hinkis + Kyle Lapidus", "generative art", "fabric work", "stained glass", "Rhizome", "Art Blocks", "NYC"]
+    },
+    "annacarreras.art": {
+        "followers": {"instagram": 631},
+        "links": {
+            "instagram": "https://www.instagram.com/annacarreras.art/",
+            "website": "https://www.annacarreras.com"
+        },
+        "categories": ["generative art", "creative coding", "Cannes Golden Lion 2010", "Google DevArt Award", "Barcelona", "interactive", "PhD researcher"]
     },
 }
 

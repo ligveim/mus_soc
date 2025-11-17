@@ -336,4 +336,18 @@ const visualArtistsData = [
         categories: ["plotter art", "algorithmic art", "drawing machines", "Berlin-based", "computer science + art", "generative"],
         source: "similar"
     },
+    {
+        name: "lovidlovid",
+        followers: {"instagram": 6717},
+        links: {"instagram": "https://www.instagram.com/lovidlovid/", "website": "https://www.lovid.org"},
+        categories: ["artist duo", "Tali Hinkis + Kyle Lapidus", "generative art", "fabric work", "stained glass", "Rhizome", "Art Blocks", "NYC"],
+        source: "similar"
+    },
+    {
+        name: "annacarreras.art",
+        followers: {"instagram": 631},
+        links: {"instagram": "https://www.instagram.com/annacarreras.art/", "website": "https://www.annacarreras.com"},
+        categories: ["generative art", "creative coding", "Cannes Golden Lion 2010", "Google DevArt Award", "Barcelona", "interactive", "PhD researcher"],
+        source: "similar"
+    },
 ];
