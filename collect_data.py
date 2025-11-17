@@ -1129,6 +1129,44 @@ collected_data = {
             "bandcamp": "https://mtfujitive.bandcamp.com/",
             "soundcloud": "https://soundcloud.com/mt_fujitive"
         }
+    },
+    "killedmyself": {
+        "followers": {"spotify": 37100},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2mLReua54bCekRJQ6hmkGq",
+            "soundcloud": "https://soundcloud.com/killedmyself",
+            "bandcamp": "https://killedmyself.bandcamp.com/"
+        }
+    },
+    "In Love With a Ghost": {
+        "followers": {"instagram": 20000, "spotify": 305000},
+        "links": {
+            "instagram": "https://www.instagram.com/lvghstmusic/",
+            "spotify": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+    },
+    "City Girl": {
+        "followers": {"instagram": 11000, "spotify": 307800},
+        "links": {
+            "instagram": "https://www.instagram.com/citygirlmusic/",
+            "spotify": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ",
+            "bandcamp": "https://city-girl.bandcamp.com/"
+        }
+    },
+    "Elijah Who": {
+        "followers": {"spotify": 403800},
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+    },
+    "Vague003": {
+        "followers": {"instagram": 4164, "spotify": 749100},
+        "links": {
+            "instagram": "https://www.instagram.com/vague003/",
+            "spotify": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k",
+            "bandcamp": "https://vague003.bandcamp.com/",
+            "soundcloud": "https://soundcloud.com/vague003"
+        }
     }
 }
 
