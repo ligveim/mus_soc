@@ -65,6 +65,18 @@ similar_artists = [
     "evagold.jpg",  # Eva Gold
     "benediktebjerre",  # Benedikte Bjerre - ULTRA NICHE (172 followers!)
     "luyangasia",  # Lu Yang
+
+    # Ars Electronica / Digital Art Festivals
+    "cheesetalk1997",  # Yuqian Sun (CheeseTalk) - AI researcher
+    "ibl3d",  # Iñigo Bilbao
+
+    # Fakewhale / NFT curated
+    "danctrl",  # Danilo Xhema
+    "etozzheques",  # etozheques
+    "negar_sepehr_nft",  # Negar Sepehr
+
+    # Expanded.art / Digital Architecture
+    "manuelrossner",  # Manuel Rossner
 ]
 
 # Collected data
@@ -321,6 +333,58 @@ collected_data = {
             "instagram": "https://www.instagram.com/luyangasia/"
         },
         "categories": ["animation", "video art", "digital", "Frieze Seoul 2024", "Deutsche Bank Artist of Year"]
+    },
+
+    # Ars Electronica / Digital Art Festivals
+    "cheesetalk1997": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/cheesetalk1997/",
+            "website": "https://fakecheese.me"
+        },
+        "categories": ["AI research", "RCA PhD", "Ars Electronica 2025", "Lumen Prize", "conversational AI"]
+    },
+    "ibl3d": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/ibl3d/",
+            "website": "https://www.ibl3d.com"
+        },
+        "categories": ["3D", "photogrammetry", "Ars Electronica", "Transmediale", "Spanish artist"]
+    },
+
+    # Fakewhale / NFT curated
+    "danctrl": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/danctrl/",
+            "website": "https://foundation.app/@danctrl"
+        },
+        "categories": ["digital painting", "traditional painting", "Italian artist", "Rome-based"]
+    },
+    "etozzheques": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/etozzheques/"
+        },
+        "categories": ["melancholic AI art", "exhibited NY/LA/Tokyo/Rome", "surrealism"]
+    },
+    "negar_sepehr_nft": {
+        "followers": {"instagram": 0},  # need count
+        "links": {
+            "instagram": "https://www.instagram.com/negar_sepehr_nft/"
+        },
+        "categories": ["Iranian artist", "AI art", "NFTNYC Times Square", "focus on minorities", "Tehran"]
+    },
+
+    # Expanded.art / Digital Architecture
+    "manuelrossner": {
+        "followers": {"instagram": 6102},
+        "links": {
+            "instagram": "https://www.instagram.com/manuelrossner/",
+            "website": "https://www.manuelrossner.com"
+        },
+        "categories": ["digital architecture", "virtual worlds", "Berlin-based", "Hamburger Kunsthalle collection"]
     },
 }
 

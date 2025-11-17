@@ -231,4 +231,46 @@ const visualArtistsData = [
         categories: ["animation", "video art", "digital", "Frieze Seoul 2024", "Deutsche Bank Artist of Year"],
         source: "similar"
     },
+    {
+        name: "cheesetalk1997",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/cheesetalk1997/", "website": "https://fakecheese.me"},
+        categories: ["AI research", "RCA PhD", "Ars Electronica 2025", "Lumen Prize", "conversational AI"],
+        source: "similar"
+    },
+    {
+        name: "ibl3d",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/ibl3d/", "website": "https://www.ibl3d.com"},
+        categories: ["3D", "photogrammetry", "Ars Electronica", "Transmediale", "Spanish artist"],
+        source: "similar"
+    },
+    {
+        name: "danctrl",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/danctrl/", "website": "https://foundation.app/@danctrl"},
+        categories: ["digital painting", "traditional painting", "Italian artist", "Rome-based"],
+        source: "similar"
+    },
+    {
+        name: "etozzheques",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/etozzheques/"},
+        categories: ["melancholic AI art", "exhibited NY/LA/Tokyo/Rome", "surrealism"],
+        source: "similar"
+    },
+    {
+        name: "negar_sepehr_nft",
+        followers: {"instagram": 0},
+        links: {"instagram": "https://www.instagram.com/negar_sepehr_nft/"},
+        categories: ["Iranian artist", "AI art", "NFTNYC Times Square", "focus on minorities", "Tehran"],
+        source: "similar"
+    },
+    {
+        name: "manuelrossner",
+        followers: {"instagram": 6102},
+        links: {"instagram": "https://www.instagram.com/manuelrossner/", "website": "https://www.manuelrossner.com"},
+        categories: ["digital architecture", "virtual worlds", "Berlin-based", "Hamburger Kunsthalle collection"],
+        source: "similar"
+    },
 ];
